@@ -18,6 +18,7 @@ with open(file_path, mode='r', newline='', encoding='utf-8') as csvfile:
             #change this to work with all payment types
             #also add here for if it reads in a new date before a payment type
             #it will reset since that last data is incomplete
-            if 'EFTPOS' in row: 
+            if 'EFTPOS' in row:
+                #the next non empty value will be the cost
                 break
             print(row)
