@@ -13,6 +13,7 @@ output2 = 'register2'
 first = df.iloc[:, :9] #A-I
 second = df.iloc[:, 9:] #Everything after
 
-first.to_csv(os.path.join(output1, 'first_part.csv'), index=False)
-second.to_csv(os.path.join(output2, 'second_part.csv'), index=False)
+#change output name when changing to work on all files
+first.to_csv(os.path.join(output1, 'r1_1.csv'), index=False)
+second.to_csv(os.path.join(output2, 'r2_2.csv'), index=False)
 
