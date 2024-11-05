@@ -1,0 +1,1088 @@
+Order Timestamp: 2022-12-31 09:32:16
+Total Cost: 30.0
+Items: FLYING DUTCH 1 LITRE TALLY
+----------------------------------------
+Order Timestamp: 2022-12-31 09:33:23
+Total Cost: 20.0
+Items: CRUISER 600ML BTL SGL, CRUISER 600ML BTL SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 09:41:43
+Total Cost: None
+Items: NS1, NO SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 09:57:23
+Total Cost: 90.0
+Items: G BURGE PETIT BUBBLES, CORONA MEX STUB CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 09:58:51
+Total Cost: 54.0
+Items: BUNDY COLA 4.6% CAN 6PK, BUNDY COLA 4.6% CAN 6PK, SQUEALING PIG SAUV. BLANC
+----------------------------------------
+Order Timestamp: 2022-12-31 09:58:59
+Total Cost: 51.730000000000004
+Items: WBLASS RED LABEL P/CHARD, JDANIEL DBL JACK CAN 4PK, VB CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 10:01:18
+Total Cost: 27.0
+Items: JANSZ NON VINTAGE ROSE
+----------------------------------------
+Order Timestamp: 2022-12-31 10:03:25
+Total Cost: 34.99
+Items: XXXX GOLD CAN 6PK, BUNDY BARE/COLA 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 10:03:42
+Total Cost: 40.0
+Items: BUNDY COLA 4.6% CAN 6PK, BUNDY COLA 4.6% CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 10:03:54
+Total Cost: 3.99
+Items: ICE 5kg BAG
+----------------------------------------
+Order Timestamp: 2022-12-31 10:07:47
+Total Cost: 39.9
+Items: SUNTORY 196 LEMON 6% CAN 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 10:08:39
+Total Cost: 56.0
+Items: VOID, TAMBURLAINE P/FREE CUVEE, VOID, ASAHI SUPER DRY CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 10:34:31
+Total Cost: None
+Items: 
+----------------------------------------
+Order Timestamp: 2022-12-31 10:56:05
+Total Cost: 170.0
+Items: VOK C/TAIL CASK PINA COLADA, REDDS PLASTIC SHOT GLASS 50PK, SIERRA TEQUILA SILVER 700ML, BACARDI RUM 700ML
+----------------------------------------
+Order Timestamp: 2022-12-31 10:35:35
+Total Cost: 50.0
+Items: HARD ROCK PASSN 500ML CAN SGL, XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK, VOID
+----------------------------------------
+Order Timestamp: 2022-12-31 10:35:49
+Total Cost: None
+Items: NS1, NO SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 10:37:04
+Total Cost: 55.0
+Items: 
+----------------------------------------
+Order Timestamp: 2022-12-31 10:40:13
+Total Cost: None
+Items: 
+----------------------------------------
+Order Timestamp: 2022-12-31 11:07:24
+Total Cost: 92.98
+Items: CAPITAL BREW XPA CAN CTN, CCLUB DRY CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 10:44:54
+Total Cost: 50.0
+Items: MILLER CHILL STUB CTN, ROUNDING, VOID, MALIBU AND COLA CAN CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 10:45:33
+Total Cost: 121.48
+Items: SAPPORO 650ML CAN CTN, WAYWARD VARIETY CAN 12PK, CBCO BERTIE CIDER SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 10:47:01
+Total Cost: 12.0
+Items: LITTLE FAT LAMB 1.25LT S/LIME, LITTLE FAT LAMB 1.25L BERRY, VOID, LITTLE FAT LAMB 1.25LT S/LIME, VOID, LITTLE FAT LAMB 1.25L BERRY
+----------------------------------------
+Order Timestamp: 2022-12-31 10:47:36
+Total Cost: 111.98
+Items: MALIBU AND COLA CAN CTN, UDL SUNSET COCKTAIL 2LTR CASK
+----------------------------------------
+Order Timestamp: 2022-12-31 10:49:28
+Total Cost: 17.990000000000002
+Items: TOOHEYS EXTRA DRY 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 10:53:27
+Total Cost: 144.9
+Items: VOODOO RANGER HAZY CAN SGL, BLACK HOPS GOAT HAZY CAN SGL, BALTER HAZY CAN SGL, BLACKFLAG RAGE MACHINE CAN SGL, BREWDOG HAZY JANE IPA CAN SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 11:27:16
+Total Cost: 10.0
+Items: XXXX GOLD CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 11:29:10
+Total Cost: 14.0
+Items: BLOKE IN A BAR MIDDY CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 11:30:15
+Total Cost: 193.96
+Items: SOMERSBY PEAR CIDER CAN 10PK, CUERVO MARGARITA CAN 4PK, EUMUNDI GINGER BEER CAN 4PK, EUMUNDI GINGER BEER CAN 4PK, CRUISER BTL 4PK, STONE & WOOD ALE CTN, CRUISER BTL 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 11:31:14
+Total Cost: 122.98
+Items: SAPPORO 650ML CAN EA, BOILING POT GOLDEN ALE CAN SGL, BALTER HAZY CAN SGL, BENTSPOKE CRANKSHAFT CAN SGL, LITTLE CREATURES HAZY CAN SGL, SCHWEPPES TONIC 1.1L, MALFY GIN BLOOD ORANGE 700ML, ROYAL JAMAICAN GINGER BEER 6PK, SCHWEPPES 2 FOR 5
+----------------------------------------
+Order Timestamp: 2022-12-31 11:53:12
+Total Cost: None
+Items: 
+----------------------------------------
+Order Timestamp: 2022-12-31 11:34:26
+Total Cost: 16.0
+Items: BROOKVALE GINGER BEER 500ML EA, BROOKVALE GINGER BEER 500ML EA
+----------------------------------------
+Order Timestamp: 2022-12-31 11:37:09
+Total Cost: 59.99
+Items: PURE BLONDE CAN CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 11:39:53
+Total Cost: 582.99
+Items: MOET CHANDON BRUT NV, BROOKVALE VOD LSQ 6% CAN CTN, VOID, MOET CHANDON BRUT NV
+----------------------------------------
+Order Timestamp: 2022-12-31 11:41:12
+Total Cost: 110.98
+Items: JDANIEL COLA CAN 10PK, TOOHEYS NEW STUB CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 11:43:01
+Total Cost: 42.980000000000004
+Items: MUD HOUSE SAUV BLANC, GREAT NTHN ORIGINAL STUB CTN, JBEAM BLK DBL SRV 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 11:58:43
+Total Cost: -42.980000000000004
+Items: BROWN BROS SMR PROSECCO ROSE  *REF, BROWN BROS SMR PROSECCO  *REFUND*
+----------------------------------------
+Order Timestamp: 2022-12-31 11:59:26
+Total Cost: 117.48
+Items: ST AUGUSTUS SAUV BLANC, CROSER NV, CROSER NV, AMPERSAND PASSION 6% CAN 4PK, BLACK HOPS SEND IT CAN SGL, AMPERSAND VODKA SODA 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:00:09
+Total Cost: 5.0
+Items: SCHWEPPES LEMONADE 1.1L, SCHWEPPES 2 FOR 5
+----------------------------------------
+Order Timestamp: 2022-12-31 12:01:22
+Total Cost: 4.0
+Items: RED ROCK SEA SALT 90G, ROUNDING, VOID, BROWN BROS SMR PROSECCO, VOID, BROWN BROS SMR PROSECCO ROSE, VOID, TWISTIES CHEESE 90GM
+----------------------------------------
+Order Timestamp: 2022-12-31 12:01:24
+Total Cost: 20.0
+Items: XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:03:08
+Total Cost: 37.0
+Items: BROWN BROS SMR PROSECCO ROSE, SQUEALING PIG PROSECCO, TWISTIES CHEESE 90GM, CC'S TASTY CHEESE 175G, VOID, SQUEALING PIG PROSECCO
+----------------------------------------
+Order Timestamp: 2022-12-31 12:03:33
+Total Cost: 31.990000000000002
+Items: SQUEALING PIG PROSECCO, SQUEALING PIG PROSECCO, ICE 5kg BAG
+----------------------------------------
+Order Timestamp: 2022-12-31 12:04:27
+Total Cost: 100.0
+Items: GREAT NTHN ORIGINAL CAN 30CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 12:05:37
+Total Cost: 58.07
+Items: SIERRA TEQUILA REPOSADO 700ML, JDANIEL COLA 500ML CAN SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 12:19:16
+Total Cost: 5.0
+Items: PURE BLONDE CAN SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 12:19:25
+Total Cost: 84.99
+Items: TA KU SAUV BLANC, DEBORT KV PROSECCO ROSE 750ML, PENFOLDS MAX PINOT NOIR, PURE BLONDE CIDER 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:20:20
+Total Cost: 101.65
+Items: TOOHEYS EXTRA DRY STUB CTN, CHIVAS REGAL 700ML, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 12:21:29
+Total Cost: None
+Items: 
+----------------------------------------
+Order Timestamp: 2022-12-31 12:30:03
+Total Cost: 97.0
+Items: SAILOR JERRY RUM 700ML, SMIRNOFF RED 1000ML
+----------------------------------------
+Order Timestamp: 2022-12-31 12:22:24
+Total Cost: 22.990000000000002
+Items: BILLSONS VODKA CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:23:51
+Total Cost: 80.0
+Items: BUNDY GINGER 4% CAN 6PK, BUNDY GINGER 4% CAN 6PK, BUNDY GINGER 4% CAN 6PK, BUNDY GINGER 4% CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:25:39
+Total Cost: 59.99
+Items: XXXX BITTER CAN CTN 30PK, ICE 5kg BAG
+----------------------------------------
+Order Timestamp: 2022-12-31 12:27:10
+Total Cost: 38.99
+Items: LUCKY DIP MINIATURES, LUCKY DIP MINIATURES, LUCKY DIP MINIATURES, ABSOLUT PASSION TINI CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:27:15
+Total Cost: 137.99
+Items: BIGHEAD 330ML CTN, BACARDI MOJITO CAN 4PK, BACARDI MOJITO CAN 4PK, BROOKVALE SP RUM GB CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:27:32
+Total Cost: 98.97
+Items: YELLOW TAIL BUBBLES 750ML, BILLSONS VODKA CAN 4PK, JDANIEL COLA CAN 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:39:37
+Total Cost: 62.99
+Items: WTURKEY 101 CAN 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:40:03
+Total Cost: 45.980000000000004
+Items: BILLSONS VODKA CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:40:13
+Total Cost: 46.9
+Items: CARL DRY BTL CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 12:40:24
+Total Cost: 48.9
+Items: XXXX GOLD CAN CTN 30PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:40:37
+Total Cost: 48.9
+Items: XXXX GOLD CAN CTN 30PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:41:00
+Total Cost: 9.0
+Items: SCHWEPPES SODA  LIME 1.1L, SCHWEPPES SODA  LIME 1.1L, COCA COLA 1.25L, SCHWEPPES 2 FOR 5
+----------------------------------------
+Order Timestamp: 2022-12-31 12:43:11
+Total Cost: 44.99
+Items: JBEAM COLA 4.8% CAN 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:43:53
+Total Cost: None
+Items: VOID ENTIRE SALE, VOID, CAPT MORG TROP PUNCH 2LTR CASK, VOID, UDL MARG COCKTAIL 2LTR CASK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:44:10
+Total Cost: 31.98
+Items: MATEUS ROSE, MATEUS ROSE
+----------------------------------------
+Order Timestamp: 2022-12-31 12:48:31
+Total Cost: 31.98
+Items: GREAT NTHN MID CAN 6PK, GREAT NTHN MID CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:49:29
+Total Cost: 208.96
+Items: UDL MARG COCKTAIL 2LTR CASK, CAPT MORG TROP PUNCH 2LTR CASK, LITTLE GIANT SHIRAZ, SMIRNOFF RED 700ML, TAYLORS JARAMAN SHIRAZ, BAILEYS ORIGINAL 700ML, LINDEMANS GENTLEMANS CO SHIRAZ, VOID, CAPT MORG TROP PUNCH 2LTR CASK, VOID, UDL MARG COCKTAIL 2LTR CASK
+----------------------------------------
+Order Timestamp: 2022-12-31 12:51:31
+Total Cost: None
+Items: PEPPERJACK CAB/SAUV
+----------------------------------------
+Order Timestamp: 2022-12-31 13:19:04
+Total Cost: 67.49
+Items: GREAT NTHN MID STUB CTN, ICE 5kg BAG, ICE 5kg BAG, ICE 5kg BAG, SAMBOY ATOMIC TOMATO 175G
+----------------------------------------
+Order Timestamp: 2022-12-31 13:20:01
+Total Cost: 80.0
+Items: BUNDY LEMON LIM BITTER CAN 6PK, BUNDY LEMON LIM BITTER CAN 6PK, BUNDY LEMON LIM BITTER CAN 6PK, BUNDY RED/COLA CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 13:20:34
+Total Cost: 20.0
+Items: JBEAM BLK DBL SRV SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 13:22:15
+Total Cost: 39.9
+Items: HARD FIZZ MIXED CAN 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 13:22:48
+Total Cost: 78.48
+Items: VB STUB CTN, MAISON B/SCOTCH SCHNAPPS 750ML, SPRING VALLEY PINE 1.25LTR
+----------------------------------------
+Order Timestamp: 2022-12-31 13:23:00
+Total Cost: 18.0
+Items: YELLOW TAIL SAUV BLANC, YELLOW TAIL PINOT NOIR 750ML
+----------------------------------------
+Order Timestamp: 2022-12-31 13:23:17
+Total Cost: 49.980000000000004
+Items: FLASHBACK PINE LIME CAN 4PK, FLASHBACK DOUBLE BLUEB CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 13:24:27
+Total Cost: 62.0
+Items: CORONA MEX STUB CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 13:25:12
+Total Cost: 20.990000000000002
+Items: BUDWEISER STUB 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 13:26:20
+Total Cost: 24.990000000000002
+Items: BUNDY RED/COLA CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 13:26:29
+Total Cost: 53.9
+Items: XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK, JDANIEL COLA CAN 10PK, BANROCK STN 1000 ROSE, BROWN BROS MOSCATO ROSA, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 13:41:12
+Total Cost: 103.99000000000001
+Items: WSTOCK/COLA 8% 10PK, BUNDY RED/COLA CAN 6PK, BUNDY BARE/COLA 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 13:41:23
+Total Cost: None
+Items: NS1, NO SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 13:42:27
+Total Cost: 18.0
+Items: YELLOW TAIL BUBBLES 750ML, YELLOW TAIL BUBBLES 750ML
+----------------------------------------
+Order Timestamp: 2022-12-31 13:42:54
+Total Cost: 20.990000000000002
+Items: MERCURY HARD CIDER RASP 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 13:44:28
+Total Cost: None
+Items: VOID ENTIRE SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 13:45:37
+Total Cost: 37.99
+Items: WSTOCK COLA 4.8% CAN 10 PK
+----------------------------------------
+Order Timestamp: 2022-12-31 13:46:15
+Total Cost: 53.99
+Items: BLACK HOPS SEND IT CAN SGL, FELONS PALE CAN SGL, YOUR MATES LARRY CAN SGL, BLACK HOPS GOAT HAZY CAN SGL, BOILING POT BEHAVE MID CAN 4PK, ATOMIC XPA CANS 4PK, ATOMIC PALE CANS 4PK, VOID, VOID, BOILING POT BEHAVE MID CAN 4PK, VOID, ATOMIC PALE CANS 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 13:46:58
+Total Cost: 20.990000000000002
+Items: LFL 16 SHOTS BUCKET
+----------------------------------------
+Order Timestamp: 2022-12-31 13:47:20
+Total Cost: 27.0
+Items: AMPERSAND VODKA SODA 4PK, SCHWEPPES SODA 1.1L, SCHWEPPES SODA 1.1L, SCHWEPPES 2 FOR 5, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 13:47:41
+Total Cost: 39.99
+Items: WSTOCK COLA 4.8% CAN 10 PK
+----------------------------------------
+Order Timestamp: 2022-12-31 13:48:10
+Total Cost: 20.0
+Items: WTURKEY 101 CAN 4PK, FIVE JUDGES SHIRAZ CASK 2LT, BROOKVALE LEM LIME BTR CAN SGL, BROOKVALE VOD LSQ 6% CAN SGL, VOID
+----------------------------------------
+Order Timestamp: 2022-12-31 14:01:24
+Total Cost: 100.0
+Items: COOPERS SESSION ALE 6PK, COOPERS SESSION ALE 6PK, BUNDY OP/COLA 6.0% CAN EA, BUNDY OP/COLA 6.0% CAN EA, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 14:02:14
+Total Cost: 51.99
+Items: MALFY GIN TONICA LEMON BTL 4PK, CHANDON NV BRUT
+----------------------------------------
+Order Timestamp: 2022-12-31 14:05:10
+Total Cost: 18.990000000000002
+Items: BROWN BROS MOSCATO SAUV BLANC
+----------------------------------------
+Order Timestamp: 2022-12-31 14:05:40
+Total Cost: 53.9
+Items: GREAT NTHN MID 30 BLOCK
+----------------------------------------
+Order Timestamp: 2022-12-31 14:06:41
+Total Cost: 54.99
+Items: COORS LAGER CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 14:06:52
+Total Cost: 77.99
+Items: JDANIEL COLA ZERO CAN 10PK, LINDEMANS E/HARVEST SSB, LINDEMANS E/HARVEST SSB
+----------------------------------------
+Order Timestamp: 2022-12-31 14:07:30
+Total Cost: None
+Items: COOPERS XPA CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 14:18:08
+Total Cost: 29.0
+Items: ICE 5kg BAG
+----------------------------------------
+Order Timestamp: 2022-12-31 14:07:46
+Total Cost: 10.0
+Items: XXXX GOLD CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 14:09:37
+Total Cost: 12.0
+Items: CRUISER 600ML BTL SGL, ROUNDING, VOID, EAST COAST GRAPE MAGIC VODKA
+----------------------------------------
+Order Timestamp: 2022-12-31 14:10:41
+Total Cost: 65.48
+Items: CRUISER ZERO MIXED 10PK, JDANIEL DBL JACK CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 14:11:39
+Total Cost: 53.9
+Items: GREAT NTHN ORIGINAL STUB 6PK, EAST COAST GRAPE MAGIC VODKA, FIREBALL COLA 6.6% CAN SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 14:22:26
+Total Cost: 76.0
+Items: GREAT NTHN ORIGINAL CAN 30CTN, MAISON TRIPLE SEC 750ML, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 14:22:46
+Total Cost: 20.990000000000002
+Items: SUNTORY 196 LEMON 6% CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 14:22:53
+Total Cost: 40.0
+Items: BUNDY GINGER 4% CAN 6PK, BUNDY GINGER 4% CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 14:24:45
+Total Cost: 200.0
+Items: PIMMS NO1 CUP 700ML, FIREBALL COLA 10% CAN 4PK, JDANIEL DBL JACK NS 10PK, WEST COAST COOLER BTL 4PK, WEST COAST COOLER BTL 4PK, LFL 16 SHOTS BUCKET, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 14:25:14
+Total Cost: 100.0
+Items: WSTOCK COLA 4.8% 375ML CAN 6PK, WSTOCK COLA 4.8% 375ML CAN 6PK, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 14:26:13
+Total Cost: 67.99
+Items: JAMESON DRY & LIME 4PK, BACARDI RUM 700ML
+----------------------------------------
+Order Timestamp: 2022-12-31 14:27:03
+Total Cost: 10.0
+Items: XXXX GOLD CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 14:27:37
+Total Cost: 10.0
+Items: SAPPORO 650ML CAN EA
+----------------------------------------
+Order Timestamp: 2022-12-31 14:29:30
+Total Cost: 81.9
+Items: SMIRNOFF RED 700ML, SUNTORY 196 GRAPE 6% CAN 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 14:32:38
+Total Cost: 38.99
+Items: GOOD TIDES MIXED 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 14:33:58
+Total Cost: 30.990000000000002
+Items: MATSOS ALC GINGER BEER CAN SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 14:42:27
+Total Cost: 80.0
+Items: JACOBS CK ST HUGO SHIRAZ
+----------------------------------------
+Order Timestamp: 2022-12-31 14:42:49
+Total Cost: 45.99
+Items: CCLUB DRY CAN 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 14:44:56
+Total Cost: 106.99000000000001
+Items: WHITECLAW VARIETY CAN 10PK, SINGLETON MALT MASTERS 700ML, VOID, WHITECLAW VARIETY CAN 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 14:46:25
+Total Cost: 74.77
+Items: LITTLE GIANT PINOT NOIR, LITTLE GIANT PINOT NOIR, LITTLE GIANT PINOT NOIR, LITTLE GIANT PINOT NOIR
+----------------------------------------
+Order Timestamp: 2022-12-31 14:46:26
+Total Cost: 53.9
+Items: GREAT NTHN MID 30 BLOCK
+----------------------------------------
+Order Timestamp: 2022-12-31 14:47:00
+Total Cost: 12.0
+Items: RED BULL CAN SGL, RED BULL CAN SGL, SCHWEPPES LEMONADE 1.1L, SCHWEPPES 2 FOR 5
+----------------------------------------
+Order Timestamp: 2022-12-31 14:48:57
+Total Cost: 30.0
+Items: JACOBS CK CHARD P/N 750, JACOBS CK CHARD P/N 750, JACOBS CK CHARD P/N 750
+----------------------------------------
+Order Timestamp: 2022-12-31 14:51:28
+Total Cost: 52.980000000000004
+Items: COOL RIDGE SPRING WATER 600ML, COOL RIDGE SPRING WATER 600ML, JBEAM 700ML, ICE 5kg BAG, ICE 5kg BAG, WATER 2 FOR 3
+----------------------------------------
+Order Timestamp: 2022-12-31 14:51:53
+Total Cost: 50.09
+Items: MEZZACORONA GLACIAL BUBBLY, FELONS CHAMPAGNE SOUR CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 14:54:27
+Total Cost: 23.990000000000002
+Items: BLACK HOPS ECOAST HAZY CAN SGL, YOUR MATES MACCA CAN SGL, GREEN BEACON 7BLS SOUR CAN SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 15:04:02
+Total Cost: 98.0
+Items: XXXX BITTER CAN CTN 30PK, BDOUGLAS 700ML
+----------------------------------------
+Order Timestamp: 2022-12-31 15:04:21
+Total Cost: 70.99
+Items: JDANIEL AMERICAN SERVE CAN 4PK, BACARDI MOJITO RASPBRY CAN 4PK, SUNTORY 196 GRAPE 6% CAN 4PK, VOID
+----------------------------------------
+Order Timestamp: 2022-12-31 15:05:35
+Total Cost: 3.99
+Items: ICE 5kg BAG
+----------------------------------------
+Order Timestamp: 2022-12-31 15:06:06
+Total Cost: 53.9
+Items: GREAT NTHN MID 30 BLOCK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:07:21
+Total Cost: None
+Items: COOPERS XPA CAN CTN, SCHWEPPES SODA 1.1L, SCHWEPPES SODA 1.1L, SCHWEPPES SODA  LIME 1.1L, SCHWEPPES SODA  LIME 1.1L, SMIRNOFF RED 1000ML, HARDYS VR MERLOT 1LTR, MUD HOUSE PINOT GRIS, MUD HOUSE PINOT GRIS
+----------------------------------------
+Order Timestamp: 2022-12-31 15:14:27
+Total Cost: 165.44
+Items: SCHWEPPES 2 FOR 5, VOID, COOPERS XPA CAN CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 15:07:48
+Total Cost: 128.0
+Items: ASAHI SUPER DRY CTN, CRUISER BTL CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 15:10:36
+Total Cost: None
+Items: CCLUB DRY CAN 10PK, WBLASS ZERO CUVEE, VOID
+----------------------------------------
+Order Timestamp: 2022-12-31 15:15:18
+Total Cost: 110.98
+Items: PURE BLONDE BTL CTN, JDANIEL COLA CAN 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:15:24
+Total Cost: 37.980000000000004
+Items: BROWN BROS SMR PROSECCO, CRUISER BTL 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:15:54
+Total Cost: 100.0
+Items: JBEAM BLK DBL SRV 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:15:56
+Total Cost: 150.0
+Items: JDANIEL 1LTR, JDANIEL 1LTR, PEPSI COLA 1.25L, PEPSI COLA 1.25L, SCHWEPPES 2 FOR 5
+----------------------------------------
+Order Timestamp: 2022-12-31 15:16:45
+Total Cost: 93.89
+Items: JDANIEL 1LTR, J SQUIRE GINGER BEER CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:16:54
+Total Cost: None
+Items: VOID ENTIRE SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 15:17:06
+Total Cost: 10.0
+Items: LUCKY DIP MINIATURES, LUCKY DIP MINIATURES
+----------------------------------------
+Order Timestamp: 2022-12-31 15:17:46
+Total Cost: 77.98
+Items: GORDONS G/T CAN  6PK, SMIRNOFF ICE RASPBERRY BTL 4PK, SMIRN RED 4.5% CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:18:36
+Total Cost: 99.0
+Items: FIREBALL CINNAMON WHISKY 700, SIERRA TEQUILA REPOSADO 700ML, VOID, XXXX GOLD CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:18:45
+Total Cost: 10.0
+Items: XXXX GOLD CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:21:58
+Total Cost: 19.0
+Items: PETER LEHMANN BOND GRENACHE, VOID
+----------------------------------------
+Order Timestamp: 2022-12-31 15:22:42
+Total Cost: 23.990000000000002
+Items: SOVEREIGN POINT CASK 4.4LT, SOVEREIGN POINT CASK 4.4LT, VOODOO RANGER IPA CAN SGL, YOUNG HENRYS HAZY PALE CAN SGL, PIRATE LIFE HAZY PALE CAN SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 15:30:00
+Total Cost: 28.01
+Items: JDANIEL COLA CAN EA, WTURKEY C/D CAN EA, GREAT NTHN ZERO CAN 6PK, VOID
+----------------------------------------
+Order Timestamp: 2022-12-31 15:30:57
+Total Cost: 8.5
+Items: GENTLEMAN JACK CAN SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 15:32:51
+Total Cost: 22.0
+Items: GREAT NTHN ORIGINAL 700ML 3PK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:33:30
+Total Cost: 73.99
+Items: VOID, GREAT NTHN MID STUB CTN, CAPT MORGAN COLA CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:35:23
+Total Cost: 135.37
+Items: WAYWARD PEACH SELTZ CAN 4PK, RED ROCK HONEY SOY CHICKEN 90G, HARD FIZZ EXTRA BERRY CAN 4PK, HARD FIZZ PFRUIT SELTZ CAN 4PK, HARD FIZZ MIXED CAN 10PK, CAPT MORGAN COLA 8% CAN 4PK, FIREBALL COLA 10% CAN SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 15:36:27
+Total Cost: 77.49
+Items: JDANIEL DBL JACK 10PK, JDANIEL COLA CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:36:38
+Total Cost: 12.98
+Items: ICE 5kg BAG, ICE 5kg BAG, SCHWEPPES SODA  LIME 1.1L, SCHWEPPES SODA  LIME 1.1L, SCHWEPPES 2 FOR 5
+----------------------------------------
+Order Timestamp: 2022-12-31 15:36:58
+Total Cost: 100.98
+Items: BILLSONS VODKA CAN 4PK, JDANIEL DBL JACK 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:37:17
+Total Cost: 66.9
+Items: 
+----------------------------------------
+Order Timestamp: 2022-12-31 15:43:28
+Total Cost: 97.98
+Items: JACOBS CK LE PETIT ROSE 750ML, TAYLORS JARAMAN PINOT NOIR, JANSZ CUVEE NV, VOK C/TAIL CASK COSMO
+----------------------------------------
+Order Timestamp: 2022-12-31 15:44:53
+Total Cost: 72.48
+Items: BUNDY GINGER CAN 10PK, GREAT NTHN ORIGINAL STUB 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:45:00
+Total Cost: 100.0
+Items: BUNDY VAT/COLA CAN 4PK, PETER LEHMANN PORTRAIT SHIRAZ, PETER LEHMANN PORTRAIT SHIRAZ, PETER LEHMANN PORTRAIT SHIRAZ, ROUNDING, VOID, PETER LEHMANN PORTRAIT SHIRAZ
+----------------------------------------
+Order Timestamp: 2022-12-31 15:45:15
+Total Cost: 57.99
+Items: BUNDY GINGER 4% CAN 6PK, MUMM TASM BRUT PRESTIGE 750ML
+----------------------------------------
+Order Timestamp: 2022-12-31 15:45:51
+Total Cost: None
+Items: NS1, NO SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 15:48:00
+Total Cost: 75.0
+Items: CRUISER BTL CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 15:48:37
+Total Cost: 125.99000000000001
+Items: BILLSONS VODKA CAN 4PK, SHEEP DOG PNT/BTR WHISKY 700ML, GREAT NTHN ORIGINAL STUB CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 15:49:38
+Total Cost: 59.5
+Items: CARL MID STUB EA, JDANIEL DBL JACK 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 15:50:27
+Total Cost: 20.990000000000002
+Items: VOID
+----------------------------------------
+Order Timestamp: 2022-12-31 15:50:38
+Total Cost: None
+Items: VOID ENTIRE SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 15:51:21
+Total Cost: 55.0
+Items: CCLUB DRY ZERO CAN 10PK, PARTY SHOTS 4PK, PARTY SHOTS SGL, PARTY SHOTS SGL, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 15:52:00
+Total Cost: 22.490000000000002
+Items: 
+----------------------------------------
+Order Timestamp: 2022-12-31 16:00:03
+Total Cost: 58.99
+Items: VB STUB CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 16:00:05
+Total Cost: 72.0
+Items: SOMERSBY APPLE CAN 10PK, FIREBALL CINNAMON WHISKY 700
+----------------------------------------
+Order Timestamp: 2022-12-31 16:00:16
+Total Cost: 6.0
+Items: WSTOCK COLA 4.8% 375ML CAN SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 16:01:16
+Total Cost: None
+Items: GREAT NTHN ORIGINAL STUB CTN, PEPSI COLA 1.25L, PEPSI COLA 1.25L, SCHWEPPES 2 FOR 5, VOID, FOUR PILLARS BLOODY SHIRAZ GIN, VOID, BELVEDERE VODKA 700ML, VOID, SCHWEPPES SODA 1.1L, VOID
+----------------------------------------
+Order Timestamp: 2022-12-31 16:11:13
+Total Cost: 59.0
+Items: SCHWEPPES TONIC 1.1L
+----------------------------------------
+Order Timestamp: 2022-12-31 16:02:58
+Total Cost: 229.96
+Items: BELVEDERE VODKA 700ML, FOUR PILLARS BLOODY SHIRAZ GIN, SCHWEPPES TONIC 1.1L, SCHWEPPES SODA 1.1L, SMIRNOFF SELTZER BERRY CAN 4PK, CHANDON NV BRUT ROSE, LFL 16 SHOTS BUCKET, REDDS PLASTIC SCHOONERS 25PK, REDDS PLASTIC SHOT GLASS 50PK, SCHWEPPES 2 FOR 5
+----------------------------------------
+Order Timestamp: 2022-12-31 16:05:48
+Total Cost: 61.99
+Items: WSTOCK COLA 4.8% 375ML CAN 6PK, BUNDY COLA 4.6% CAN 6PK, BUNDY COLA 4.6% CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 16:06:17
+Total Cost: 21.990000000000002
+Items: WSTOCK COLA 4.8% 375ML CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 16:06:45
+Total Cost: 12.0
+Items: XXXX DRY CAN 6PK, VOID, BROOKVALE GINGER 330ML CAN CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 16:07:10
+Total Cost: 48.980000000000004
+Items: LA VIEILLE FERME ROSE, WAYWARD HAZY MID CAN 6PK, WTURKEY RARE/COLA 8% CAN 4PK, MCW HANWOOD EST 5YO TWNY 750ML
+----------------------------------------
+Order Timestamp: 2022-12-31 16:15:33
+Total Cost: None
+Items: NS1, NO SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 16:16:10
+Total Cost: 100.0
+Items: BUNDY LEMON LIM BITTER CAN 6PK, BUNDY LEMON LIM BITTER CAN 6PK, BROOKVALE GINGER CAN 10PK, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 16:16:42
+Total Cost: 18.990000000000002
+Items: TOOHEYS NEW STUB 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 16:16:45
+Total Cost: None
+Items: NS1, NO SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 16:17:40
+Total Cost: None
+Items: 
+----------------------------------------
+Order Timestamp: 2022-12-31 16:27:06
+Total Cost: 52.99
+Items: XXXX GOLD CAN 6PK, MATSOS ALC GINGER BEER CAN 6PK, XXXX SUMMER LIME STUB 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 16:17:59
+Total Cost: 50.0
+Items: WSTOCK/COLA 6% 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 16:18:25
+Total Cost: 58.0
+Items: JDANIEL 700ML, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 16:19:54
+Total Cost: 86.99
+Items: SOUR PUSS APPLE SHOTS 700ML, SMIRNOFF RED 1000ML, SCHWEPPES SODA 1.1L, SCHWEPPES SODA 1.1L, SCHWEPPES 2 FOR 5
+----------------------------------------
+Order Timestamp: 2022-12-31 16:21:14
+Total Cost: 32.09
+Items: RUFFLED FEATHER CAB MERLOT, RUFFLED FEATHER CAB MERLOT, RUFFLED FEATHER SAUV BLANC, RUFFLED FEATHER SAUV BLANC, YELLOW TAIL BUBBLES 750ML
+----------------------------------------
+Order Timestamp: 2022-12-31 16:34:33
+Total Cost: None
+Items: 
+----------------------------------------
+Order Timestamp: 2022-12-31 16:23:23
+Total Cost: 61.97
+Items: BILLSONS VODKA CAN 4PK, MALIBU AND PASSION CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 16:35:46
+Total Cost: None
+Items: 
+----------------------------------------
+Order Timestamp: 2022-12-31 16:24:05
+Total Cost: 50.0
+Items: OYSTER BAY SAUV BLANC, OYSTER BAY SAUV BLANC
+----------------------------------------
+Order Timestamp: 2022-12-31 16:36:50
+Total Cost: 84.04
+Items: JACOBS CK CHARD P/N 750, JACOBS CK CHARD P/N 750, JAMESON DRY & LIME 10PK, DEBORT KV PROSCECCO 200ML 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 16:37:36
+Total Cost: 13.0
+Items: COCA COLA 1.25L, COCA COLA 1.25L, SCHWEPPES TONIC 1.1L, SCHWEPPES 2 FOR 5
+----------------------------------------
+Order Timestamp: 2022-12-31 16:37:37
+Total Cost: 13.0
+Items: FARM HAND ORGANIC PINOT GRIGIO
+----------------------------------------
+Order Timestamp: 2022-12-31 16:37:58
+Total Cost: 3.99
+Items: ICE 5kg BAG
+----------------------------------------
+Order Timestamp: 2022-12-31 16:47:29
+Total Cost: None
+Items: 
+----------------------------------------
+Order Timestamp: 2022-12-31 16:37:58
+Total Cost: 63.99
+Items: SCHWEPPES SODA 1.1L, SCHWEPPES SODA 1.1L, WHITLEY NEIL BLOOD ORANGE GIN, SCHWEPPES 2 FOR 5
+----------------------------------------
+Order Timestamp: 2022-12-31 16:39:58
+Total Cost: 75.0
+Items: CRUISER BTL CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 16:40:27
+Total Cost: 76.48
+Items: JOSE CUERVO MARGARITA MIX 1LT, COCA COLA 1.25L, ALLENS SNAKES ALIVE 200GM, JDANIEL COLA CAN 10PK
+----------------------------------------
+Order Timestamp: 2022-12-31 16:42:33
+Total Cost: 68.0
+Items: FOUR PILLARS RARE DRY GIN
+----------------------------------------
+Order Timestamp: 2022-12-31 16:42:38
+Total Cost: 50.0
+Items: BILLSONS VODKA CAN 4PK, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 16:43:05
+Total Cost: 20.0
+Items: XXXX GOLD CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 16:43:47
+Total Cost: None
+Items: NS1, NO SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 16:44:15
+Total Cost: 8.0
+Items: HAHN SUPER DRY GLUTEN FREE CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 16:56:09
+Total Cost: None
+Items: 
+----------------------------------------
+Order Timestamp: 2022-12-31 17:07:27
+Total Cost: 50.0
+Items: CRUISER ZERO MIXED 10PK, SUNGAZER WATERMELON CAN SGL, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 16:56:52
+Total Cost: 77.0
+Items: SMIRNOFF ICE RASPBERRY BTL 4PK, VODKA O 700ML, SUNTORY 196 GRAPE 6% CAN 4PK, VOID, FLYKA VODKA 700ML
+----------------------------------------
+Order Timestamp: 2022-12-31 16:57:20
+Total Cost: 63.0
+Items: GREAT NTHN ORIGINAL CAN 30CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 16:58:03
+Total Cost: 40.980000000000004
+Items: YOUR MATES LARRY CAN 4PK, BALTER CAPT SENSIBLE CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:00:31
+Total Cost: 62.0
+Items: CORONA MEX STUB CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 17:00:44
+Total Cost: 20.0
+Items: WSTOCK 6% TALLIE EACH, WSTOCK 6% TALLIE EACH
+----------------------------------------
+Order Timestamp: 2022-12-31 17:00:49
+Total Cost: 33.99
+Items: XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK, ICE 5kg BAG
+----------------------------------------
+Order Timestamp: 2022-12-31 17:01:24
+Total Cost: 49.980000000000004
+Items: STONE & WOOD ALE 6PK, BILLSONS VODKA CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:01:44
+Total Cost: 27.990000000000002
+Items: CCLUB COLA CAN EA, CCLUB COLA CAN EA, HEINEKEN ZERO STUB 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:02:01
+Total Cost: 76.89
+Items: ST HALLETT FAITH SHIRAZ, RUFFLED FEATHER SAUV BLANC, GREAT NTHN MID 30 BLOCK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:03:25
+Total Cost: 77.89
+Items: SMIRNOFF SELTZER BERRY CAN 4PK, JDANIEL DBL JACK NS 10PK, ROUNDING, MCGUIGAN BLK LAB CAB SAUV, MCGUIGAN BLK LAB CAB SAUV, OYSTER BAY CUVEE BRUT SPK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:16:43
+Total Cost: 29.48
+Items: MIDORI ILLUSION BTL 4PK, SCHULTES GARLIC BEERSTICK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:18:01
+Total Cost: 63.0
+Items: GREAT NTHN ORIGINAL CAN 30CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 17:21:24
+Total Cost: 42.99
+Items: BRICK LANE GINGER BEER CAN 4PK, BLOKE IN A BAR MIDDY CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:22:31
+Total Cost: -19.990000000000002
+Items: BLOKE IN A BAR MIDDY CAN 6PK  *REFUND*
+----------------------------------------
+Order Timestamp: 2022-12-31 17:22:51
+Total Cost: 14.9
+Items: BLOKE IN A BAR MIDDY CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:23:04
+Total Cost: 23.0
+Items: JAMESON RAW COLA 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:23:37
+Total Cost: 68.97
+Items: BILLSONS VODKA CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:25:27
+Total Cost: 62.980000000000004
+Items: LFL 28 SHOTS BUCKET, WTURKEY 101 CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:27:32
+Total Cost: 26.990000000000002
+Items: BROOKVALE GINGER LOW S CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:27:52
+Total Cost: 126.95
+Items: YELLOWGLEN YELLOW SPARKLING, SMIRNOFF SELTZER LIME CAN CTN, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 17:28:25
+Total Cost: None
+Items: NS1, NO SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 17:29:30
+Total Cost: 110.99000000000001
+Items: SOMERSBY APPLE CAN 3X10PK, JAGERMEISTER 700ML
+----------------------------------------
+Order Timestamp: 2022-12-31 17:30:35
+Total Cost: 31.34
+Items: J SQUIRE 150 LASHES CAN 6PK, SQUEALING PIG SAUV. BLANC
+----------------------------------------
+Order Timestamp: 2022-12-31 17:48:43
+Total Cost: 48.980000000000004
+Items: CAPT MORGAN TROPICAL CAN 4PK, CCLUB DRY CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:48:59
+Total Cost: 70.0
+Items: YOUR MATES LARRY CAN CTN, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 17:49:30
+Total Cost: 25.990000000000002
+Items: VOK C/TAIL CASK BLUE LAGOON
+----------------------------------------
+Order Timestamp: 2022-12-31 17:49:46
+Total Cost: 27.0
+Items: BROOKVALE GINGER TROP CAN 6PK, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 17:49:56
+Total Cost: -27.0
+Items: BROOKVALE GINGER TROP CAN 6PK  *REFU, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 17:50:12
+Total Cost: 26.990000000000002
+Items: BROOKVALE GINGER TROP CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:50:28
+Total Cost: 21.990000000000002
+Items: GORDONS PINK AND SODA STUB 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:51:07
+Total Cost: 167.74
+Items: CCLUB DRY CUBE 24 CAN, AMPERSAND PASSION 6% CAN CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 17:52:01
+Total Cost: 90.48
+Items: WEST COAST COOLER BTL 4PK, CCLUB PREMI DRY CAN 10PK, KAHLUA ESP MARTINI CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:52:38
+Total Cost: 22.0
+Items: BERTON METAL SAUV BLANC, BERTON METAL SAUV BLANC
+----------------------------------------
+Order Timestamp: 2022-12-31 17:54:11
+Total Cost: 35.480000000000004
+Items: CRUISER BTL 4PK, GREAT NTHN ORIGINAL STUB 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 17:54:31
+Total Cost: 37.980000000000004
+Items: BROOKVALE VOD LSQ 6% CAN 4PK, ELEPHANT IN ROOM P/NOIR 750ML
+----------------------------------------
+Order Timestamp: 2022-12-31 17:55:39
+Total Cost: 226.08
+Items: GREAT NTHN MID 3 PACK, VOID
+----------------------------------------
+Order Timestamp: 2022-12-31 18:06:25
+Total Cost: 55.980000000000004
+Items: YOUNG HENRYS MOTOR OIL CAN 4PK, WILD BOAR RUM 15% 375ML 3PK, COKE NO SUGAR 1.25L
+----------------------------------------
+Order Timestamp: 2022-12-31 18:12:26
+Total Cost: None
+Items: VOID ENTIRE SALE, VOID, BROOKVALE VP ICE TEA CAN 6PK, VOID, CAPT MORGAN COLA CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 18:12:59
+Total Cost: None
+Items: VOID ENTIRE SALE, VOID, BROOKVALE VP ICE TEA CAN 6PK, VOID, CAPT MORGAN COLA CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 18:13:24
+Total Cost: 70.0
+Items: CAPT MORGAN COLA CAN 4PK, VB CAN 6PK, VB CAN 6PK, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 18:14:02
+Total Cost: 25.0
+Items: BROOKVALE SP RUM GB CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 18:14:24
+Total Cost: 44.0
+Items: HEINEKEN ZERO STUB CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 18:14:50
+Total Cost: 58.97
+Items: REDDS PLASTIC SCHOONERS 25PK, SMIRN RED 4.5% CAN 6PK, BILLSONS VODKA CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 18:17:13
+Total Cost: 39.97
+Items: GOSSIPS WHT RANGE, GOSSIPS WHT RANGE, BALTER CAPT SENSIBLE CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 18:22:24
+Total Cost: 20.0
+Items: XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 18:22:24
+Total Cost: 51.97
+Items: ICE 5kg BAG, UDL CAN 6PK, GREAT NTHN MID STUB 6PK, CC'S TASTY CHEESE 175G
+----------------------------------------
+Order Timestamp: 2022-12-31 18:25:04
+Total Cost: 49.980000000000004
+Items: BILLSONS VODKA CAN 4PK, BILLSONS VODKA CAN SGL, NED WHISKY DRY 4.8% CAN 4PK, VOID, BROOKVALE VP ICE TEA CAN 6PK, VOID, CAPT MORGAN COLA CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 18:25:20
+Total Cost: 29.990000000000002
+Items: SMIRN RED 4.5% CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 18:32:07
+Total Cost: 25.0
+Items: VOID ENTIRE SALE, BROOKVALE VP ICE TEA CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 18:52:09
+Total Cost: 24.990000000000002
+Items: BUNDY BARE/COLA 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 18:52:55
+Total Cost: 26.94
+Items: RED BULL SUGAR FREE CAN SGL, RED BULL SUGAR FREE CAN SGL, SUNTORY 196 LEMON 6% CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 18:54:09
+Total Cost: 60.0
+Items: OPAL NERA SAMBUCA 750ML, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 18:55:43
+Total Cost: 65.98
+Items: CRUISER ZERO MIXED 10PK, KRAKEN RUM COLA CAN 4PK
+----------------------------------------
+Order Timestamp: 2022-12-31 18:56:13
+Total Cost: 5.0
+Items: ICE 5kg BAG, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 18:58:43
+Total Cost: None
+Items: NS1, NO SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 18:58:56
+Total Cost: 83.98
+Items: YOUNG HENRYS IPA ALE SGL, YOUNG HENRYS IPA ALE SGL, PEPPERJACK SPARKLING SHIRAZ, PETER LEHMANN BOND SHIRAZ, VOID, PEPPERJACK SPARKLING SHIRAZ
+----------------------------------------
+Order Timestamp: 2022-12-31 19:02:18
+Total Cost: None
+Items: *** End of Shift ***
+----------------------------------------
+Order Timestamp: 2022-12-31 19:07:34
+Total Cost: 46.0
+Items: JBEAM 700ML, COCA COLA 1.25L
+----------------------------------------
+Order Timestamp: 2022-12-31 19:09:34
+Total Cost: 52.0
+Items: BACARDI PINA COLADA CAN 4PK, BACARDI PINA COLADA CAN 4PK, JDANIEL AMERICAN SERVE CAN SGL
+----------------------------------------
+Order Timestamp: 2022-12-31 19:11:29
+Total Cost: 39.980000000000004
+Items: NS1, NO SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 19:36:41
+Total Cost: 50.0
+Items: BUNDY COLA 4.6% CAN 6PK, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 19:37:20
+Total Cost: None
+Items: NS1, NO SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 19:38:55
+Total Cost: 36.5
+Items: SPRING VALLEY CRANBRRY 1.25LTR, WTURKEY RARE/COLA 8% CAN 4PK, ROUNDING
+----------------------------------------
+Order Timestamp: 2022-12-31 19:43:43
+Total Cost: None
+Items: NS1, NO SALE
+----------------------------------------
+Order Timestamp: 2022-12-31 19:46:46
+Total Cost: 84.98
+Items: OPAL NERA SAMBUCA 750ML, SMIRN RED 4.5% CAN 6PK
+----------------------------------------
+Order Timestamp: 2022-12-31 19:47:11
+Total Cost: 45.0
+Items: JAGERMEISTER 700ML
+----------------------------------------
+Order Timestamp: 2022-12-31 19:48:35
+Total Cost: 21.98
+Items: CRUISER BTL 4PK, LFL SHOTS 4PK QUICK F
+----------------------------------------
+Order Timestamp: 2022-12-31 19:54:35
+Total Cost: 80.0
+Items: JDANIEL 1LTR, COCA COLA 1.25L
+----------------------------------------
+Order Timestamp: 2022-12-31 19:58:47
+Total Cost: 54.0
+Items: GREAT NTHN ORIGINAL STUB CTN
+----------------------------------------
+Order Timestamp: 2022-12-31 20:02:53
+Total Cost: None
+Items: *** End of Shift ***
+----------------------------------------

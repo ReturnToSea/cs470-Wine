@@ -5632,13 +5632,6 @@ import re
 # Split data into lines
 lines = data.strip().splitlines()
 
-def is_number(line):
-    try:
-        float(line)
-        return True
-    except ValueError:
-        return False
-
 orders = []
 current_order = None
 items = []
@@ -5661,7 +5654,7 @@ for i in range(len(lines)):
     elif payment_method_pattern.search(line):
         if i + 1 < len(lines):
             total_cost = float(lines[i + 1])
-    elif "$" not in line and not line[0].isdigit() and line[0] not in "-" and "SKIRMISH/BSHOP" not in line and "GST" not in line and "SUBTOTAL" not in line and "Change" not in line and "TODD K" not in line:
+    elif "$" not in line and not line[0].isdigit() and line[0] not in "-" and "SKIRMISH/BSHOP" not in line and "GST" not in line and "SUBTOTAL" not in line and "Change" not in line and "TODD K" not in line and "TRACEY LANGE" not in line:
         items.append(line.strip())
 
 if current_order is not None:
@@ -5671,11 +5664,12 @@ if current_order is not None:
         "total_cost": total_cost
     })
 
-for order in orders:
-    print(f"Order Timestamp: {order['order_timestamp']}")
-    print(f"Total Cost: {order['total_cost']}")
-    print(f"Items: {', '.join(order['items'])}")
-    print('-' * 40)  # Just a separator for readability
+with open("Orders.txt", "w") as file:
+    for order in orders:
+        file.write(f"Order Timestamp: {order['order_timestamp']}\n")
+        file.write(f"Total Cost: {order['total_cost']}\n")
+        file.write(f"Items: {', '.join(order['items'])}\n")
+        file.write('-' * 40 + "\n")
 
 
 
