@@ -5634,10 +5634,12 @@ import re
 #Bugs that need to be fixed due to incosistencies in the data
 #TODO:  Find fix for formating not always being the same
 #           - Date is not always in the right cell
+#           - Data is not always appearing in the right cell
 #       Find fix for some NO SALE cells still having a charge in the data
 #       Find fix for empty sales still having a charge in the data
 #       Find fix for a sale having items sold but no total charge
 #       Find fix for void just breaking the data sometimes
+#TODO:  Change it to read in from a file instead of text
 
 
 lines = data.strip().splitlines()
