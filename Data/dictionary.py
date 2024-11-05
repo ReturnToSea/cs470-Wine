@@ -5637,8 +5637,14 @@ current_order = None
 items = []
 total_cost = None
 
-payment_method_pattern = re.compile(r"(CASH|EFTPOS|AMEX)")
+def is_number(line):
+    try:
+        float(line)
+        return True
+    except ValueError:
+        return False
 
+payment_method_pattern = re.compile(r"(CASH|EFTPOS|AMEX)")
 for i in range(len(lines)):
     line = lines[i]
     if re.match(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}", line):
@@ -5654,7 +5660,7 @@ for i in range(len(lines)):
     elif payment_method_pattern.search(line):
         if i + 1 < len(lines):
             total_cost = float(lines[i + 1])
-    elif "$" not in line and not line[0].isdigit() and line[0] not in "-" and "SKIRMISH/BSHOP" not in line and "GST" not in line and "SUBTOTAL" not in line and "Change" not in line and "TODD K" not in line and "TRACEY LANGE" not in line:
+    elif "$" not in line and not line.startswith(("-", "CASH", "GST", "SUBTOTAL", "Change", "SKIRMISH/BSHOP", "TODD K", "TRACEY LANGE")) and not is_number(line):
         items.append(line.strip())
 
 if current_order is not None:
