@@ -1,3 +1,7 @@
+from ExtractData import find_orders_by_item
+
+#TODO: create a histogram using function from Extract Data. We want to find the frequency of an item based on time of day.
+
 # # The code below handles makes a histogram based on price.
 # import matplotlib.pyplot as plt
 # import re
@@ -154,3 +158,25 @@ with open("Orders.txt", "r") as file:
                 # Update hourly count for each item
                 for item in item_list:
                     hourly_item_counts[item][hour] += 1
+
+# Get the top 5 most common items overall
+total_item_counts = Counter({item: sum(hour_counts.values()) for item, hour_counts in hourly_item_counts.items()})
+top_items = [item for item, _ in total_item_counts.most_common(20)]
+
+# Plot frequency of each top item by hour
+plt.figure(figsize=(12, 8))
+
+for item in top_items:
+    # Extract the hourly counts for the current item
+    item_hour_counts = [hourly_item_counts[item].get(hour, 0) for hour in range(24)]
+    plt.plot(range(24), item_hour_counts, label=item, marker='o')
+
+# Add plot details
+plt.title("Frequency of Top 5 Ordered Items by Hour of Day")
+plt.xlabel("Hour of Day")
+plt.ylabel("Frequency")
+plt.xticks(range(24))  # Set x-axis to show each hour
+plt.legend(title="Items")
+plt.grid(True)
+plt.tight_layout()
+plt.show()
