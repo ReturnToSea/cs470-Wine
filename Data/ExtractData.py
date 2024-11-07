@@ -5649,7 +5649,9 @@ def is_number(line):
     except ValueError:
         return False
 
-def parse_orders(data):
+def parse_orders(file_path):
+    with open(file_path, 'r') as file:
+        data = file.read()
     lines = data.strip().splitlines()
 
     orders = []
@@ -5721,8 +5723,9 @@ def print_specific_items(matching_orders):
             print(f"Items: {', '.join(order['items'])}")
             print('-' * 40)
 
-orders = parse_orders(data)
-write_to_file(orders, "Orders.txt")
-specific_item = "GREAT NTHN ORIGINAL STUB CTN"
-matching_orders = find_orders_by_item(orders, specific_item)
-print_specific_items(matching_orders)
+#file_path = 'CsvReaderOutput.txt'
+#orders = parse_orders(file_path)
+#write_to_file(orders, "Orders.txt")
+#specific_item = "GREAT NTHN ORIGINAL STUB CTN"
+#matching_orders = find_orders_by_item(orders, specific_item)
+#print_specific_items(matching_orders)
