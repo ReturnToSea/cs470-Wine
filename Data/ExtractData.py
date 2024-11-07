@@ -5640,15 +5640,7 @@ import re
 #       Find fix for a sale having items sold but no total charge
 #       Find fix for void just breaking the data sometimes
 #TODO:  Change it to read in from a file instead of text
-
-
-lines = data.strip().splitlines()
-
-orders = []
-current_order = None
-items = []
-total_cost = None
-payment_method = None
+#TODO:  Change it to check for 1 of each recuired cell and if it does not find that void that sale
 
 def is_number(line):
     try:
@@ -5657,126 +5649,80 @@ def is_number(line):
     except ValueError:
         return False
 
-payment_method_pattern = re.compile(r"(CASH|EFTPOS|AMEX)")
+def parse_orders(data):
+    lines = data.strip().splitlines()
 
-for i in range(len(lines)):
-    line = lines[i]
-    if re.match(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}", line):
-        if current_order is not None:
-            orders.append({
-                "order_timestamp": current_order,
-                "items": items,
-                "total_cost": total_cost,
-                "payment_method": payment_method
-            })
-        current_order = line
-        items = []
-        total_cost = None
-        payment_method = None
+    orders = []
+    current_order = None
+    items = []
+    total_cost = None
+    payment_method = None
 
-    elif payment_method_pattern.search(line):
-        if i + 1 < len(lines):
-            payment_method = payment_method_pattern.search(line).group()
-            total_cost = float(lines[i + 1])
-    elif "$" not in line and not line.startswith(("-", "CASH", "GST", "SUBTOTAL", "Change", "SKIRMISH/BSHOP", "TODD K", "TRACEY LANGE", "ROUNDING")) and not is_number(line):
-        items.append(line.strip())
 
-if current_order is not None:
-    orders.append({
-        "order_timestamp": current_order,
-        "items": items,
-        "total_cost": total_cost,
-        "payment_method": payment_method
-    })
 
-with open("Orders.txt", "w") as file:
-    for order in orders:
-        file.write(f"Order Timestamp: {order['order_timestamp']}\n")
-        file.write(f"Total Cost: {order['total_cost']}\n")
-        file.write(f"Payment Method: {order['payment_method']}\n")
-        file.write(f"Items: {', '.join(order['items'])}\n")
-        file.write('-' * 40 + "\n")
+    payment_method_pattern = re.compile(r"(CASH|EFTPOS|AMEX)")
 
-def find_orders_by_item(item_name):
+    for i in range(len(lines)):
+        line = lines[i]
+        if re.match(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}", line):
+            if current_order is not None:
+                orders.append({
+                    "order_timestamp": current_order,
+                    "items": items,
+                    "total_cost": total_cost,
+                    "payment_method": payment_method
+                })
+            current_order = line
+            items = []
+            total_cost = None
+            payment_method = None
+
+        elif payment_method_pattern.search(line):
+            if i + 1 < len(lines):
+                payment_method = payment_method_pattern.search(line).group()
+                total_cost = float(lines[i + 1])
+        elif "$" not in line and not line.startswith(("-", "CASH", "GST", "SUBTOTAL", "Change", "SKIRMISH/BSHOP", "TODD K", "TRACEY LANGE", "ROUNDING")) and not is_number(line):
+            items.append(line.strip())
+
+    if current_order is not None:
+        orders.append({
+            "order_timestamp": current_order,
+            "items": items,
+            "total_cost": total_cost,
+            "payment_method": payment_method
+        })
+
+    return orders
+
+def write_to_file(orders, filename="Orders.txt"):
+    with open("Orders.txt", "w") as file:
+        for order in orders:
+            file.write(f"Order Timestamp: {order['order_timestamp']}\n")
+            file.write(f"Total Cost: {order['total_cost']}\n")
+            file.write(f"Payment Method: {order['payment_method']}\n")
+            file.write(f"Items: {', '.join(order['items'])}\n")
+            file.write('-' * 40 + "\n")
+
+def find_orders_by_item(orders, item_name):
     matching_orders = []
     for order in orders:
         if any(item_name.lower() in item.lower() for item in order['items']):
             matching_orders.append(order)
     return matching_orders
 
+def print_specific_items(matching_orders):
+    #specific_item = "GREAT NTHN ORIGINAL STUB CTN"
+    #matching_orders = find_orders_by_item(specific_item)
+    if matching_orders:
+        for order in matching_orders:
+            print(f"Order Timestamp: {order['order_timestamp']}")
+            print(f"Total Cost: {order['total_cost']}")
+            print(f"Payment Method: {order['payment_method']}")
+            print(f"Items: {', '.join(order['items'])}")
+            print('-' * 40)
+
+orders = parse_orders(data)
+write_to_file(orders, "Orders.txt")
 specific_item = "GREAT NTHN ORIGINAL STUB CTN"
-matching_orders = find_orders_by_item(specific_item)
-if matching_orders:
-    for order in matching_orders:
-        print(f"Order Timestamp: {order['order_timestamp']}")
-        print(f"Total Cost: {order['total_cost']}")
-        print(f"Payment Method: {order['payment_method']}")
-        print(f"Items: {', '.join(order['items'])}")
-        print('-' * 40)
-
-# Initialize variables
-#items = []
-#current_item = {}
-#gst_subtotal = None
-#gst_amount = None
-#date_purchased = None
-
-# Iterate through lines
-#i = 0
-#while i < len(lines):
-#    line = lines[i].strip()
-#
-#    # Check for purchase ID (assumed to be a numeric line of 7 characters)
-#    if line.isdigit() and len(line) == 7:
-#        # Ignore the purchase ID
-#        i += 1
-#        continue  # Skip to the next iteration
-#
-#    # Check for item name (assumed to be a line with alphabetic characters)
-#    elif any(char.isalpha() for char in line):  # Ensure there's at least one alphabetic character
-#        current_item = {'item_name': line}  # Save item name
-#
-#    # Check for price (assumed to be a numeric line with possible decimal)
-#    elif line.replace('.', '', 1).isdigit():
-#        if 'item_name' in current_item:  # Only add price if there's a valid item
-#            current_item['price'] = float(line)  # Save price
-#
-#    # Check for discount (starts with "-" for negative discounts)
-#    elif line.startswith('-') and line[1:].replace('.', '', 1).isdigit():
-#        if 'item_name' in current_item:  # Only add discount if there's a valid item
-#            current_item['discount'] = float(line)  # Save discount
-#
-#    # Check for GST Subtotal
-#    elif line == 'GST Subtotal':
-#        gst_subtotal = float(lines[i + 1].strip())
-#        i += 1  # Skip next line as it’s the subtotal value
-#
-#    # Check for GST Amount
-#    elif line == 'GST Amount':
-#        gst_amount = float(lines[i + 1].strip())
-#        i += 1  # Skip next line as it’s the amount value
-#
-#    # Check for date (assumed to be in "YYYY-MM-DD HH:MM:SS" format)
-#    elif len(line) == 19 and line[4] == '-' and line[10] == ' ':
-#        date_purchased = line  # Save purchase date
-#
-#    # If current_item is complete (has item_name and price), add to items
-#    if 'item_name' in current_item and 'price' in current_item:
-#        items.append(current_item)
-#        current_item = {}  # Reset for the next item
-#
-#    i += 1
-#
-## Build final data structure
-#result = {
-#    "items": items,
-#    "GST_subtotal": gst_subtotal,
-#    "GST_amount": gst_amount,
-#    "date_purchased": date_purchased
-#}
-#
-## Display result
-#print(result)
-
-
-
+matching_orders = find_orders_by_item(orders, specific_item)
+print_specific_items(matching_orders)
