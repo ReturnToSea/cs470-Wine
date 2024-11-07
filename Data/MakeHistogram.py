@@ -128,55 +128,56 @@ from ExtractData import find_orders_by_item
 # plt.tight_layout()
 # plt.show()
 
-import matplotlib.pyplot as plt
-import re
-from datetime import datetime
-from collections import defaultdict, Counter
+# # Based on time and frequency of all items.
+# import matplotlib.pyplot as plt
+# import re
+# from datetime import datetime
+# from collections import defaultdict, Counter
 
-# Dictionary to store item frequencies by hour
-hourly_item_counts = defaultdict(lambda: Counter())
+# # Dictionary to store item frequencies by hour
+# hourly_item_counts = defaultdict(lambda: Counter())
 
-# Read the data from the file
-with open("Orders.txt", "r") as file:
-    # Read each line and parse blocks
-    content = file.read().split("----------------------------------------\n")
-    for block in content:
-        if block.strip():  # Only process non-empty blocks
-            # Use regex to find timestamp and items
-            timestamp_match = re.search(r"Order Timestamp: (.+)", block)
-            items_match = re.search(r"Items: (.+)", block)
+# # Read the data from the file
+# with open("Orders.txt", "r") as file:
+#     # Read each line and parse blocks
+#     content = file.read().split("----------------------------------------\n")
+#     for block in content:
+#         if block.strip():  # Only process non-empty blocks
+#             # Use regex to find timestamp and items
+#             timestamp_match = re.search(r"Order Timestamp: (.+)", block)
+#             items_match = re.search(r"Items: (.+)", block)
             
-            if timestamp_match and items_match:
-                # Parse timestamp and extract hour
-                timestamp = datetime.strptime(timestamp_match.group(1), "%Y-%m-%d %H:%M:%S")
-                hour = timestamp.hour
+#             if timestamp_match and items_match:
+#                 # Parse timestamp and extract hour
+#                 timestamp = datetime.strptime(timestamp_match.group(1), "%Y-%m-%d %H:%M:%S")
+#                 hour = timestamp.hour
                 
-                # Extract and clean item list
-                items = items_match.group(1)
-                item_list = [item.strip() for item in items.split(",")]
+#                 # Extract and clean item list
+#                 items = items_match.group(1)
+#                 item_list = [item.strip() for item in items.split(",")]
                 
-                # Update hourly count for each item
-                for item in item_list:
-                    hourly_item_counts[item][hour] += 1
+#                 # Update hourly count for each item
+#                 for item in item_list:
+#                     hourly_item_counts[item][hour] += 1
 
-# Get the top 5 most common items overall
-total_item_counts = Counter({item: sum(hour_counts.values()) for item, hour_counts in hourly_item_counts.items()})
-top_items = [item for item, _ in total_item_counts.most_common(20)]
+# # Get the top 5 most common items overall
+# total_item_counts = Counter({item: sum(hour_counts.values()) for item, hour_counts in hourly_item_counts.items()})
+# top_items = [item for item, _ in total_item_counts.most_common(20)]
 
-# Plot frequency of each top item by hour
-plt.figure(figsize=(12, 8))
+# # Plot frequency of each top item by hour
+# plt.figure(figsize=(12, 8))
 
-for item in top_items:
-    # Extract the hourly counts for the current item
-    item_hour_counts = [hourly_item_counts[item].get(hour, 0) for hour in range(24)]
-    plt.plot(range(24), item_hour_counts, label=item, marker='o')
+# for item in top_items:
+#     # Extract the hourly counts for the current item
+#     item_hour_counts = [hourly_item_counts[item].get(hour, 0) for hour in range(24)]
+#     plt.plot(range(24), item_hour_counts, label=item, marker='o')
 
-# Add plot details
-plt.title("Frequency of Top 5 Ordered Items by Hour of Day")
-plt.xlabel("Hour of Day")
-plt.ylabel("Frequency")
-plt.xticks(range(24))  # Set x-axis to show each hour
-plt.legend(title="Items")
-plt.grid(True)
-plt.tight_layout()
-plt.show()
+# # Add plot details
+# plt.title("Frequency of Top 5 Ordered Items by Hour of Day")
+# plt.xlabel("Hour of Day")
+# plt.ylabel("Frequency")
+# plt.xticks(range(24))  # Set x-axis to show each hour
+# plt.legend(title="Items")
+# plt.grid(True)
+# plt.tight_layout()
+# plt.show()
