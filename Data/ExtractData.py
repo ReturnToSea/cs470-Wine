@@ -5723,9 +5723,9 @@ def print_specific_items(matching_orders):
             print(f"Items: {', '.join(order['items'])}")
             print('-' * 40)
 
-#file_path = 'CsvReaderOutput.txt'
-#orders = parse_orders(file_path)
-#write_to_file(orders, "Orders.txt")
-#specific_item = "GREAT NTHN ORIGINAL STUB CTN"
-#matching_orders = find_orders_by_item(orders, specific_item)
-#print_specific_items(matching_orders)
+file_path = 'CsvReaderOutput.txt'
+orders = parse_orders(file_path)
+write_to_file(orders, "Orders.txt")
+specific_item = "GREAT NTHN ORIGINAL STUB CTN"
+matching_orders = find_orders_by_item(orders, specific_item)
+print_specific_items(matching_orders)
