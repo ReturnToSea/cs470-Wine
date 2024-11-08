@@ -5683,7 +5683,7 @@ def parse_orders(file_path):
             if i + 1 < len(lines):
                 payment_method = payment_method_pattern.search(line).group()
                 total_cost = float(lines[i + 1])
-        elif "$" not in line and not line.startswith(("-", "CASH", "GST", "SUBTOTAL", "Change", "SKIRMISH/BSHOP", "TODD K", "TRACEY LANGE", "ROUNDING")) and not is_number(line):
+        elif "$" not in line and "Discount" not in line and not line.startswith(("-", "CASH", "GST", "SUBTOTAL", "Change", "SKIRMISH/BSHOP", "TODD K", "TRACEY LANGE", "ROUNDING")) and not is_number(line):
             items.append(line.strip())
 
     if current_order is not None:

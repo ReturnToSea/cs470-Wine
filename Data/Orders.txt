@@ -66,7 +66,7 @@ Items: SUNTORY 196 GRAPE 6% CAN 10PK, GREAT NTHN MID 30 BLOCK
 Order Timestamp: 2022-12-01 11:09:13
 Total Cost: 8.1
 Payment Method: EFTPOS
-Items: JDANIEL DBL JACK CAN EA, 10% Item Discount 4
+Items: JDANIEL DBL JACK CAN EA
 ----------------------------------------
 Order Timestamp: 2022-12-01 11:10:42
 Total Cost: 10.0
@@ -151,12 +151,12 @@ Items: GORDONS GIN 700ML, BOMBAY AND TONIC 4PK
 Order Timestamp: 2022-12-01 13:08:07
 Total Cost: None
 Payment Method: None
-Items: NS1, NO SALE, VOID, BUNDY OP/COLA 6.0% CAN EA, VOID, 10% Item Discount 4
+Items: NS1, NO SALE, VOID, BUNDY OP/COLA 6.0% CAN EA, VOID
 ----------------------------------------
 Order Timestamp: 2022-12-01 13:09:48
 Total Cost: 7.65
 Payment Method: EFTPOS
-Items: BUNDY OP/COLA 6.0% CAN EA, 10% Item Discount 4
+Items: BUNDY OP/COLA 6.0% CAN EA
 ----------------------------------------
 Order Timestamp: 2022-12-01 13:25:01
 Total Cost: 47.980000000000004
@@ -236,7 +236,7 @@ Items: YOUR MATES LARRY CAN 4PK
 Order Timestamp: 2022-12-01 14:04:31
 Total Cost: 57.59
 Payment Method: EFTPOS
-Items: YOUR MATES LARRY CAN CTN, 10% Item Discount 4
+Items: YOUR MATES LARRY CAN CTN
 ----------------------------------------
 Order Timestamp: 2022-12-01 14:09:05
 Total Cost: 444.54
@@ -246,12 +246,12 @@ Items: MOET CHANDON BRUT NV, 5% BSHOP L.LEGEND
 Order Timestamp: 2022-12-01 14:09:30
 Total Cost: 20.0
 Payment Method: CASH
-Items: JBEAM COLA 500ML BTL EA, 10% Item Discount 4, STONE & WOOD ALE 6PK, 10% Item Discount 4, XXXX GOLD CAN 6PK
+Items: JBEAM COLA 500ML BTL EA, STONE & WOOD ALE 6PK, XXXX GOLD CAN 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-01 14:35:58
 Total Cost: 100.0
 Payment Method: CASH
-Items: SMIRNOFF SELTZER LIME CAN CTN, 10% Item Discount 4, SCHWEPPES 375ML CAN PEPSI MAX, 5% BSHOP L.LEGEND
+Items: SMIRNOFF SELTZER LIME CAN CTN, SCHWEPPES 375ML CAN PEPSI MAX, 5% BSHOP L.LEGEND
 ----------------------------------------
 Order Timestamp: 2022-12-01 14:38:56
 Total Cost: 6.5
@@ -316,7 +316,7 @@ Items:
 Order Timestamp: 2022-12-01 15:10:40
 Total Cost: 12.65
 Payment Method: CASH
-Items: WSTOCK/COLA 8% CAN EA, TWISTIES CHEESE 90GM, 10% Item Discount 4
+Items: WSTOCK/COLA 8% CAN EA, TWISTIES CHEESE 90GM
 ----------------------------------------
 Order Timestamp: 2022-12-01 15:13:52
 Total Cost: 10.0
@@ -331,7 +331,7 @@ Items: DEVILS CORNER RES PINOT NOIR, PERONI NASTRO AZZURRO 6PK, STARBOROUGH SAUV
 Order Timestamp: 2022-12-01 15:14:30
 Total Cost: 242.17000000000002
 Payment Method: EFTPOS
-Items: LICOR 43, 10% Item Discount 4, BERTON METAL CHARDONNAY, BERTON METAL CHARDONNAY, BERTON METAL CAB SAUV, BERTON METAL CAB SAUV, BERTON METAL CAB SAUV, BERTON METAL BLACK SHIRAZ, 10% Item Discount 4, SMIRNOFF RED 1000ML, 10% Item Discount 4, GRANTS SCOTCH 700ML, 10% Item Discount 4
+Items: LICOR 43, BERTON METAL CHARDONNAY, BERTON METAL CHARDONNAY, BERTON METAL CAB SAUV, BERTON METAL CAB SAUV, BERTON METAL CAB SAUV, BERTON METAL BLACK SHIRAZ, SMIRNOFF RED 1000ML, GRANTS SCOTCH 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-01 15:16:37
 Total Cost: 60.99
@@ -566,7 +566,7 @@ Items: KAHLUA 700ML, 5% BSHOP L.LEGEND
 Order Timestamp: 2022-12-01 16:55:00
 Total Cost: 73.9
 Payment Method: EFTPOS
-Items: FAT BASTARD CHARDONNAY, MONKEY SHOULDER SCOTCH 700ML, VOID, 10% Item Discount 4, VOID, FAT BASTARD CHARDONNAY, VOID, MONKEY SHOULDER SCOTCH 700ML, VOID, 10% Item Discount 4
+Items: FAT BASTARD CHARDONNAY, MONKEY SHOULDER SCOTCH 700ML, VOID, VOID, FAT BASTARD CHARDONNAY, VOID, MONKEY SHOULDER SCOTCH 700ML, VOID
 ----------------------------------------
 Order Timestamp: 2022-12-01 16:55:28
 Total Cost: 53.0
@@ -956,7 +956,7 @@ Items: NS1, NO SALE
 Order Timestamp: 2022-12-11 13:08:48
 Total Cost: 476.23
 Payment Method: EFTPOS
-Items: YAMAZAKI 12YO SUNTORY WHISKY, 5% BSHOP L.LEGEND, AMPERSAND PINK GIN & W/BRY 4PK, 10% Item Discount 4, AMPERSAND PASSION 6% CAN 4PK, AMPERSAND PASSION 6% CAN 4PK, AMPERSAND WATERMLN 6% CAN 4PK, AMPERSAND VODKA SODA 6% 4PK, VOID, AMPERSAND PASSION 6% CAN CTN, VOID, 10% Item Discount 4
+Items: YAMAZAKI 12YO SUNTORY WHISKY, 5% BSHOP L.LEGEND, AMPERSAND PINK GIN & W/BRY 4PK, AMPERSAND PASSION 6% CAN 4PK, AMPERSAND PASSION 6% CAN 4PK, AMPERSAND WATERMLN 6% CAN 4PK, AMPERSAND VODKA SODA 6% 4PK, VOID, AMPERSAND PASSION 6% CAN CTN, VOID
 ----------------------------------------
 Order Timestamp: 2022-12-11 13:09:43
 Total Cost: 47.480000000000004
@@ -1176,7 +1176,7 @@ Items: VB 750ML 3 FOR
 Order Timestamp: 2022-12-11 16:03:04
 Total Cost: 6000.0
 Payment Method: CASH
-Items: ST HALLETT BLACK CLAY SHIRAZ, 10% Item Discount 4, TOOHEYS EXTRA DRY EA, 10% Item Discount 4, BUNDY VAT/COLA CAN EA, 10% Item Discount 4
+Items: ST HALLETT BLACK CLAY SHIRAZ, TOOHEYS EXTRA DRY EA, BUNDY VAT/COLA CAN EA
 ----------------------------------------
 Order Timestamp: 2022-12-11 16:04:00
 Total Cost: None
@@ -1226,7 +1226,7 @@ Items: GREAT NTHN MID 30 BLOCK
 Order Timestamp: 2022-12-11 16:25:08
 Total Cost: 24.29
 Payment Method: EFTPOS
-Items: STONE & WOOD ALE 6PK, 10% Item Discount 4
+Items: STONE & WOOD ALE 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-11 16:26:06
 Total Cost: 40.0
@@ -1331,7 +1331,7 @@ Items: CORONA MEX STUB CTN, VOID, SUNTORY 196 LEMON 6% CAN 10PK
 Order Timestamp: 2022-12-11 17:25:50
 Total Cost: 35.12
 Payment Method: EFTPOS
-Items: FLASHBACK DOUBLE GRAPE CAN 4PK, 10% Item Discount 4, SUNTORY 196 LEMON 6% CAN 10PK, 10% Item Discount 4, JDANIEL DBL JACK CAN 4PK, 5% BSHOP L.LEGEND
+Items: FLASHBACK DOUBLE GRAPE CAN 4PK, SUNTORY 196 LEMON 6% CAN 10PK, JDANIEL DBL JACK CAN 4PK, 5% BSHOP L.LEGEND
 ----------------------------------------
 Order Timestamp: 2022-12-11 18:01:20
 Total Cost: 88.99
@@ -1401,7 +1401,7 @@ Items: NS1, NO SALE
 Order Timestamp: 2022-12-11 18:36:31
 Total Cost: 14.4
 Payment Method: EFTPOS
-Items: BILLSONS VODKA CAN SGL, 10% Item Discount 4, BILLSONS VODKA CAN SGL, 10% Item Discount 4
+Items: BILLSONS VODKA CAN SGL, BILLSONS VODKA CAN SGL
 ----------------------------------------
 Order Timestamp: 2022-12-19 08:58:08
 Total Cost: None
@@ -1621,7 +1621,7 @@ Items:
 Order Timestamp: 2022-12-19 14:31:06
 Total Cost: 15.75
 Payment Method: EFTPOS
-Items: BUNDY OP/COLA 6.0% CAN EA, 10% Item Discount 4, BUNDY COLA 8% CAN SGL, 10% Item Discount 4
+Items: BUNDY OP/COLA 6.0% CAN EA, BUNDY COLA 8% CAN SGL
 ----------------------------------------
 Order Timestamp: 2022-12-19 14:12:31
 Total Cost: 26.0
@@ -1696,7 +1696,7 @@ Items: MILLER CHILL BLOOD OR STUB CTN, 5% BSHOP L.LEGEND
 Order Timestamp: 2022-12-19 14:41:36
 Total Cost: 52.2
 Payment Method: CASH
-Items: PURE BLONDE BTL CTN, 10% Item Discount 4
+Items: PURE BLONDE BTL CTN
 ----------------------------------------
 Order Timestamp: 2022-12-19 14:42:40
 Total Cost: 44.63
@@ -2346,7 +2346,7 @@ Items: GREAT NTHN MID STUB 6PK, XXXX GOLD STUB 6PK
 Order Timestamp: 2022-12-10 11:48:21
 Total Cost: 81.88
 Payment Method: EFTPOS
-Items: LUCKY DIP MINIATURES, 10% Item Discount 4, JBEAM 375ML, 10% Item Discount 4, LFL 28 SHOTS BUCKET, 10% Item Discount 4, LUCKY DIP MINIATURES, 10% Item Discount 4
+Items: LUCKY DIP MINIATURES, JBEAM 375ML, LFL 28 SHOTS BUCKET, LUCKY DIP MINIATURES
 ----------------------------------------
 Order Timestamp: 2022-12-10 11:49:03
 Total Cost: 109.0
@@ -2576,7 +2576,7 @@ Items: GREAT NTHN MID 30 BLOCK
 Order Timestamp: 2022-12-10 14:16:36
 Total Cost: 21.59
 Payment Method: EFTPOS
-Items: RUSTY YAK GINGER BEER CAN 6PK, 10% Item Discount 4
+Items: RUSTY YAK GINGER BEER CAN 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-10 14:17:09
 Total Cost: 42.0
@@ -2756,7 +2756,7 @@ Items: HARD FIZZ MIXED CAN 10PK, WAYWARD VARIETY CAN 12PK, 4 PINES PACIFIC ALE S
 Order Timestamp: 2022-12-10 15:48:24
 Total Cost: 9.0
 Payment Method: EFTPOS
-Items: YELLOW TAIL CHARD, 10% Item Discount 4
+Items: YELLOW TAIL CHARD
 ----------------------------------------
 Order Timestamp: 2022-12-10 15:48:43
 Total Cost: 23.0
@@ -2866,7 +2866,7 @@ Items: MERCURY HARD CIDER BC CAN SGL, MERCURY HARD CIDER BC CAN SGL, SUNTORY 196
 Order Timestamp: 2022-12-10 16:59:03
 Total Cost: 26.09
 Payment Method: EFTPOS
-Items: JBEAM COLA 4.8% CAN  6PK, 10% Item Discount 4
+Items: JBEAM COLA 4.8% CAN  6PK
 ----------------------------------------
 Order Timestamp: 2022-12-10 16:59:17
 Total Cost: 45.0
@@ -3191,7 +3191,7 @@ Items: SUNTORY 196 LEMON 6% CAN 10PK, GOOD TIDES MIXED 10PK
 Order Timestamp: 2022-12-27 12:34:33
 Total Cost: 102.98
 Payment Method: EFTPOS
-Items: EVANS&TATE REDBROOK CHARD, 10% Item Discount 4, PENFOLDS BIN 311 CHARDONNAY, JACOB CUVEE BY JACOBS CREEK, 10% Item Discount 4
+Items: EVANS&TATE REDBROOK CHARD, PENFOLDS BIN 311 CHARDONNAY, JACOB CUVEE BY JACOBS CREEK
 ----------------------------------------
 Order Timestamp: 2022-12-27 12:35:39
 Total Cost: 41.99
@@ -3331,7 +3331,7 @@ Items: SKYY VODKA 700ML, 5% BSHOP L.LEGEND
 Order Timestamp: 2022-12-27 13:59:24
 Total Cost: 96.29
 Payment Method: AMEX
-Items: BROOKVALE VOD LSQ 6% CAN CTN, 10% Item Discount 4
+Items: BROOKVALE VOD LSQ 6% CAN CTN
 ----------------------------------------
 Order Timestamp: 2022-12-27 14:01:19
 Total Cost: 99.88
@@ -3346,7 +3346,7 @@ Items: BILLSONS VODKA CAN CTN, VOID, BILLSONS VODKA CAN 4PK
 Order Timestamp: 2022-12-27 14:05:07
 Total Cost: 171.87
 Payment Method: EFTPOS
-Items: STARBOROUGH SAUV BLANC, 10% Item Discount 4, CATALINA SOUNDS SAUV BLANC, 10% Item Discount 4, HAHN SUPER DRY 3.5 BLOCK, 10% Item Discount 4
+Items: STARBOROUGH SAUV BLANC, CATALINA SOUNDS SAUV BLANC, HAHN SUPER DRY 3.5 BLOCK
 ----------------------------------------
 Order Timestamp: 2022-12-27 14:21:30
 Total Cost: 45.99
@@ -3491,7 +3491,7 @@ Items: KIM CRAWFORD SAUV BLANC, KIM CRAWFORD SAUV BLANC, FIREBALL CINNAMON WHISK
 Order Timestamp: 2022-12-27 15:37:12
 Total Cost: 53.99
 Payment Method: EFTPOS
-Items: PURE BLONDE CAN CTN, 10% Item Discount 4
+Items: PURE BLONDE CAN CTN
 ----------------------------------------
 Order Timestamp: 2022-12-27 15:37:28
 Total Cost: 10.0
@@ -4161,7 +4161,7 @@ Items: TANQUERAY GIN 700ML
 Order Timestamp: 2022-12-02 15:11:03
 Total Cost: 22.94
 Payment Method: EFTPOS
-Items: JBEAM BLK DBL SRV 4PK, 10% Item Discount 4
+Items: JBEAM BLK DBL SRV 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-02 15:11:15
 Total Cost: 22.490000000000002
@@ -4261,7 +4261,7 @@ Items: ASAHI SUPDRY CAN 500ML 6PK, 5% BSHOP L.LEGEND, JDANIEL COLA CAN EA, 5% BS
 Order Timestamp: 2022-12-02 15:43:56
 Total Cost: 7.65
 Payment Method: EFTPOS
-Items: WSTOCK/COLA 4.8% TALL EACH, 10% Item Discount 4
+Items: WSTOCK/COLA 4.8% TALL EACH
 ----------------------------------------
 Order Timestamp: 2022-12-02 15:44:05
 Total Cost: 50.0
@@ -4451,7 +4451,7 @@ Items: XXXX GOLD CAN 6PK
 Order Timestamp: 2022-12-02 16:24:45
 Total Cost: 35.08
 Payment Method: EFTPOS
-Items: 10% Item Discount 4
+Items: 
 ----------------------------------------
 Order Timestamp: 2022-12-02 16:32:09
 Total Cost: 36.54
@@ -4606,12 +4606,12 @@ Items: CRUISER BTL 4PK
 Order Timestamp: 2022-12-02 17:15:35
 Total Cost: 34.18
 Payment Method: EFTPOS
-Items: TAYLORS EST CHARD, 10% Item Discount 4, TAYLORS P/L UW CHARD, 10% Item Discount 4
+Items: TAYLORS EST CHARD, TAYLORS P/L UW CHARD
 ----------------------------------------
 Order Timestamp: 2022-12-02 17:16:23
 Total Cost: 33.8
 Payment Method: EFTPOS
-Items: OYSTER BAY SAUV BLANC, OYSTER BAY SAUV BLANC, VOID, GOOD TIDES SELTZ LIME CAN 4PK, VOID, 10% Item Discount 4, VOID, CRUISER SPRITZ BERRY CAN 4PK, VOID, 10% Item Discount 4
+Items: OYSTER BAY SAUV BLANC, OYSTER BAY SAUV BLANC, VOID, GOOD TIDES SELTZ LIME CAN 4PK, VOID, VOID, CRUISER SPRITZ BERRY CAN 4PK, VOID
 ----------------------------------------
 Order Timestamp: 2022-12-02 17:16:33
 Total Cost: 43.99
@@ -4811,7 +4811,7 @@ Items: MALFY GIN TONICA ROSA BTL 4PK, BYRON BAY LAGER STUB 6PK
 Order Timestamp: 2022-12-02 18:26:03
 Total Cost: 36.89
 Payment Method: EFTPOS
-Items: PEPPERJACK SPARKLING SHIRAZ, 10% Item Discount 4, VOID, FIREBALL APPLE 6.6% CAN SGL
+Items: PEPPERJACK SPARKLING SHIRAZ, VOID, FIREBALL APPLE 6.6% CAN SGL
 ----------------------------------------
 Order Timestamp: 2022-12-02 18:26:19
 Total Cost: 24.0
@@ -4841,7 +4841,7 @@ Items: BUNDY COLA 4.6% CAN 6PK
 Order Timestamp: 2022-12-02 18:47:40
 Total Cost: 67.59
 Payment Method: EFTPOS
-Items: BILLSONS VODKA CAN 4PK, 10% Item Discount 4, CARL DRY BTL CTN, 10% Item Discount 4
+Items: BILLSONS VODKA CAN 4PK, CARL DRY BTL CTN
 ----------------------------------------
 Order Timestamp: 2022-12-02 18:48:35
 Total Cost: None
@@ -4991,7 +4991,7 @@ Items: SUNTORY 196 GRAPE 6% CAN 10PK, GREAT NTHN MID 30 BLOCK
 Order Timestamp: 2022-12-01 11:09:13
 Total Cost: 8.1
 Payment Method: EFTPOS
-Items: JDANIEL DBL JACK CAN EA, 10% Item Discount 4
+Items: JDANIEL DBL JACK CAN EA
 ----------------------------------------
 Order Timestamp: 2022-12-01 11:10:42
 Total Cost: 10.0
@@ -5076,12 +5076,12 @@ Items: GORDONS GIN 700ML, BOMBAY AND TONIC 4PK
 Order Timestamp: 2022-12-01 13:08:07
 Total Cost: None
 Payment Method: None
-Items: NS1, NO SALE, VOID, BUNDY OP/COLA 6.0% CAN EA, VOID, 10% Item Discount 4
+Items: NS1, NO SALE, VOID, BUNDY OP/COLA 6.0% CAN EA, VOID
 ----------------------------------------
 Order Timestamp: 2022-12-01 13:09:48
 Total Cost: 7.65
 Payment Method: EFTPOS
-Items: BUNDY OP/COLA 6.0% CAN EA, 10% Item Discount 4
+Items: BUNDY OP/COLA 6.0% CAN EA
 ----------------------------------------
 Order Timestamp: 2022-12-01 13:25:01
 Total Cost: 47.980000000000004
@@ -5161,7 +5161,7 @@ Items: YOUR MATES LARRY CAN 4PK
 Order Timestamp: 2022-12-01 14:04:31
 Total Cost: 57.59
 Payment Method: EFTPOS
-Items: YOUR MATES LARRY CAN CTN, 10% Item Discount 4
+Items: YOUR MATES LARRY CAN CTN
 ----------------------------------------
 Order Timestamp: 2022-12-01 14:09:05
 Total Cost: 444.54
@@ -5171,12 +5171,12 @@ Items: MOET CHANDON BRUT NV, 5% BSHOP L.LEGEND
 Order Timestamp: 2022-12-01 14:09:30
 Total Cost: 20.0
 Payment Method: CASH
-Items: JBEAM COLA 500ML BTL EA, 10% Item Discount 4, STONE & WOOD ALE 6PK, 10% Item Discount 4, XXXX GOLD CAN 6PK
+Items: JBEAM COLA 500ML BTL EA, STONE & WOOD ALE 6PK, XXXX GOLD CAN 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-01 14:35:58
 Total Cost: 100.0
 Payment Method: CASH
-Items: SMIRNOFF SELTZER LIME CAN CTN, 10% Item Discount 4, SCHWEPPES 375ML CAN PEPSI MAX, 5% BSHOP L.LEGEND
+Items: SMIRNOFF SELTZER LIME CAN CTN, SCHWEPPES 375ML CAN PEPSI MAX, 5% BSHOP L.LEGEND
 ----------------------------------------
 Order Timestamp: 2022-12-01 14:38:56
 Total Cost: 6.5
@@ -5241,7 +5241,7 @@ Items:
 Order Timestamp: 2022-12-01 15:10:40
 Total Cost: 12.65
 Payment Method: CASH
-Items: WSTOCK/COLA 8% CAN EA, TWISTIES CHEESE 90GM, 10% Item Discount 4
+Items: WSTOCK/COLA 8% CAN EA, TWISTIES CHEESE 90GM
 ----------------------------------------
 Order Timestamp: 2022-12-01 15:13:52
 Total Cost: 10.0
@@ -5256,7 +5256,7 @@ Items: DEVILS CORNER RES PINOT NOIR, PERONI NASTRO AZZURRO 6PK, STARBOROUGH SAUV
 Order Timestamp: 2022-12-01 15:14:30
 Total Cost: 242.17000000000002
 Payment Method: EFTPOS
-Items: LICOR 43, 10% Item Discount 4, BERTON METAL CHARDONNAY, BERTON METAL CHARDONNAY, BERTON METAL CAB SAUV, BERTON METAL CAB SAUV, BERTON METAL CAB SAUV, BERTON METAL BLACK SHIRAZ, 10% Item Discount 4, SMIRNOFF RED 1000ML, 10% Item Discount 4, GRANTS SCOTCH 700ML, 10% Item Discount 4
+Items: LICOR 43, BERTON METAL CHARDONNAY, BERTON METAL CHARDONNAY, BERTON METAL CAB SAUV, BERTON METAL CAB SAUV, BERTON METAL CAB SAUV, BERTON METAL BLACK SHIRAZ, SMIRNOFF RED 1000ML, GRANTS SCOTCH 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-01 15:16:37
 Total Cost: 60.99
@@ -5491,7 +5491,7 @@ Items: KAHLUA 700ML, 5% BSHOP L.LEGEND
 Order Timestamp: 2022-12-01 16:55:00
 Total Cost: 73.9
 Payment Method: EFTPOS
-Items: FAT BASTARD CHARDONNAY, MONKEY SHOULDER SCOTCH 700ML, VOID, 10% Item Discount 4, VOID, FAT BASTARD CHARDONNAY, VOID, MONKEY SHOULDER SCOTCH 700ML, VOID, 10% Item Discount 4
+Items: FAT BASTARD CHARDONNAY, MONKEY SHOULDER SCOTCH 700ML, VOID, VOID, FAT BASTARD CHARDONNAY, VOID, MONKEY SHOULDER SCOTCH 700ML, VOID
 ----------------------------------------
 Order Timestamp: 2022-12-01 16:55:28
 Total Cost: 53.0
@@ -5736,12 +5736,12 @@ Items: GREAT NTHN ORIGINAL CAN 6PK, FIREBALL XMAS ORNAMENT SGL, FIREBALL XMAS OR
 Order Timestamp: 2022-12-24 10:04:50
 Total Cost: 50.0
 Payment Method: CASH
-Items: CARL DRY BTL 6PK, 10% Item Discount 4
+Items: CARL DRY BTL 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-24 10:05:15
 Total Cost: 13.49
 Payment Method: EFTPOS
-Items: JOSE CUERVO MARGARITA MIX 1LT, 10% Item Discount 4
+Items: JOSE CUERVO MARGARITA MIX 1LT
 ----------------------------------------
 Order Timestamp: 2022-12-24 10:05:29
 Total Cost: 3.99
@@ -5806,7 +5806,7 @@ Items:
 Order Timestamp: 2022-12-24 10:43:24
 Total Cost: 50.4
 Payment Method: CASH
-Items: MAKERS MARK 700ML, 10% Item Discount 4
+Items: MAKERS MARK 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-24 10:30:15
 Total Cost: 25.0
@@ -5936,7 +5936,7 @@ Items: COOPERS SPARKLING ALE CAN CTN
 Order Timestamp: 2022-12-24 11:27:25
 Total Cost: 29.69
 Payment Method: EFTPOS
-Items: EUMUNDI GINGER BEER CAN 4PK, 10% Item Discount 4, WAYWARD EVERYDAY ALE CAN SGL, 10% Item Discount 4, WAYWARD IPA CAN SGL, 10% Item Discount 4
+Items: EUMUNDI GINGER BEER CAN 4PK, WAYWARD EVERYDAY ALE CAN SGL, WAYWARD IPA CAN SGL
 ----------------------------------------
 Order Timestamp: 2022-12-24 11:29:02
 Total Cost: 150.0
@@ -6101,7 +6101,7 @@ Items: GREAT NTHN ORIGINAL STUB CTN, GREY GOOSE VODKA 700ML
 Order Timestamp: 2022-12-24 12:33:09
 Total Cost: 42.89
 Payment Method: EFTPOS
-Items: SUNTORY 196 LEMON 6% CAN 4PK, 10% Item Discount 4, 19 CRIMES CAB SAUV, 10% Item Discount 4, 19 CRIMES CAB SAUV, 10% Item Discount 4
+Items: SUNTORY 196 LEMON 6% CAN 4PK, 19 CRIMES CAB SAUV, 19 CRIMES CAB SAUV
 ----------------------------------------
 Order Timestamp: 2022-12-24 12:34:32
 Total Cost: 30.0
@@ -6156,7 +6156,7 @@ Items: MATSOS ALC GINGER BEER CAN 6PK, ID CHECKED
 Order Timestamp: 2022-12-24 12:40:42
 Total Cost: 200.0
 Payment Method: CASH
-Items: SQUEALING PIG PINOT GRIS, 10% Item Discount 4, OYSTER BAY SPK ROSE, 10% Item Discount 4, OYSTER BAY CUVEE BRUT SPK, 10% Item Discount 4, BROOKVALE GINGER 330ML CAN CTN, 10% Item Discount 4, FURPHY ALE 375ML STUB CTN, 10% Item Discount 4
+Items: SQUEALING PIG PINOT GRIS, OYSTER BAY SPK ROSE, OYSTER BAY CUVEE BRUT SPK, BROOKVALE GINGER 330ML CAN CTN, FURPHY ALE 375ML STUB CTN
 ----------------------------------------
 Order Timestamp: 2022-12-24 12:41:23
 Total Cost: 40.0
@@ -6181,7 +6181,7 @@ Items: WEST COAST COOLER BTL 4PK, BUNDY RED/COLA CAN 6PK, BUNDY LEMON LIM BITTER
 Order Timestamp: 2022-12-24 12:51:58
 Total Cost: 195.63
 Payment Method: EFTPOS
-Items: JDANIEL DBL JACK DRY CAN 4PK, 10% Item Discount 4, GREAT NTHN MID 30 BLOCK, 10% Item Discount 4, SMIRN BLK/GUARANA CTN, 10% Item Discount 4, VOID, 5% BSHOP L.LEGEND, VOID, 5% BSHOP L.LEGEND
+Items: JDANIEL DBL JACK DRY CAN 4PK, GREAT NTHN MID 30 BLOCK, SMIRN BLK/GUARANA CTN, VOID, 5% BSHOP L.LEGEND, VOID, 5% BSHOP L.LEGEND
 ----------------------------------------
 Order Timestamp: 2022-12-24 12:52:08
 Total Cost: 66.8
@@ -6321,7 +6321,7 @@ Items: GORDONS FLAVOURS MIXED 12PK, BROOKVALE GINGER LOW S CAN 6PK
 Order Timestamp: 2022-12-24 13:40:49
 Total Cost: 150.0
 Payment Method: CASH
-Items: CCLUB 700MLS, 10% Item Discount 4, JBEAM DOUBLE OAK 700ML, 10% Item Discount 4
+Items: CCLUB 700MLS, JBEAM DOUBLE OAK 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-24 13:41:16
 Total Cost: 38.99
@@ -6421,7 +6421,7 @@ Items: HARDYS VR CAB SAUV 1LTR
 Order Timestamp: 2022-12-24 14:17:40
 Total Cost: 83.28
 Payment Method: EFTPOS
-Items: BIRD IN HAND SPARKLING PINOT N, 10% Item Discount 4, BIRD IN HAND SPARKLING PINOT N, 10% Item Discount 4, MARQUIS DE PENNAUTIER ROSE, 10% Item Discount 4, WBLASS ZERO SAUV BLANC, 10% Item Discount 4
+Items: BIRD IN HAND SPARKLING PINOT N, BIRD IN HAND SPARKLING PINOT N, MARQUIS DE PENNAUTIER ROSE, WBLASS ZERO SAUV BLANC
 ----------------------------------------
 Order Timestamp: 2022-12-24 14:18:38
 Total Cost: None
@@ -6501,7 +6501,7 @@ Items: BRANDS LAIRA STENTIFORDS SHZ, TIGER LAGER STUB 6PK, VOID, SMIRN RED 4.5% 
 Order Timestamp: 2022-12-24 14:43:26
 Total Cost: 3.0
 Payment Method: EFTPOS
-Items: WSTOCK/COLA 8% CAN EA, 10% Item Discount 4
+Items: WSTOCK/COLA 8% CAN EA
 ----------------------------------------
 Order Timestamp: 2022-12-24 14:43:41
 Total Cost: 45.0
@@ -6831,7 +6831,7 @@ Items: SMIRNOFF ICE GUAVA BTL 4PK, SMIRNOFF ICE BLUEBERRY BTL 4PK
 Order Timestamp: 2022-12-24 16:19:01
 Total Cost: 19.79
 Payment Method: EFTPOS
-Items: GORDONS PINK AND SODA STUB 4PK, 10% Item Discount 4
+Items: GORDONS PINK AND SODA STUB 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-24 16:19:18
 Total Cost: 67.99
@@ -6856,7 +6856,7 @@ Items: CCLUB DRY ZERO CAN 6PK
 Order Timestamp: 2022-12-24 16:25:41
 Total Cost: 49.0
 Payment Method: CASH
-Items: FIREBALL CINNAMON WHISKY 700, 10% Item Discount 4
+Items: FIREBALL CINNAMON WHISKY 700
 ----------------------------------------
 Order Timestamp: 2022-12-24 16:25:47
 Total Cost: 96.89
@@ -6896,7 +6896,7 @@ Items:
 Order Timestamp: 2022-12-24 16:49:11
 Total Cost: 35.160000000000004
 Payment Method: EFTPOS
-Items: BANROCK STN 1000 ROSE, 10% Item Discount 4, BANROCK STN 1000 ROSE, 10% Item Discount 4, BANROCK STN 1000 ROSE, 10% Item Discount 4, BANROCK STN 1000 ROSE, 10% Item Discount 4, 4 FOR 15% OFF
+Items: BANROCK STN 1000 ROSE, BANROCK STN 1000 ROSE, BANROCK STN 1000 ROSE, BANROCK STN 1000 ROSE, 4 FOR 15% OFF
 ----------------------------------------
 Order Timestamp: 2022-12-24 16:37:11
 Total Cost: 100.9
@@ -7091,12 +7091,12 @@ Items: CRUISER MIXED 10PK
 Order Timestamp: 2022-12-24 18:19:40
 Total Cost: 33.54
 Payment Method: EFTPOS
-Items: CRUISER BTL 4PK, 10% Item Discount 4, MIDORI ILLUSION BTL 4PK, 10% Item Discount 4
+Items: CRUISER BTL 4PK, MIDORI ILLUSION BTL 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-24 18:24:32
 Total Cost: 89.9
 Payment Method: EFTPOS
-Items: FIREBALL XMAS ORNAMENT SGL, 10% Item Discount 4
+Items: FIREBALL XMAS ORNAMENT SGL
 ----------------------------------------
 Order Timestamp: 2022-12-24 19:07:26
 Total Cost: None
@@ -7141,7 +7141,7 @@ Items: NS1, NO SALE
 Order Timestamp: 2022-12-24 19:56:06
 Total Cost: 28.8
 Payment Method: EFTPOS
-Items: HARD ROCK LIME 500ML CAN SGL, 10% Item Discount 4, HARD ROCK LIME 500ML CAN SGL, 10% Item Discount 4, HARD ROCK PASSN 500ML CAN SGL, 10% Item Discount 4
+Items: HARD ROCK LIME 500ML CAN SGL, HARD ROCK LIME 500ML CAN SGL, HARD ROCK PASSN 500ML CAN SGL
 ----------------------------------------
 Order Timestamp: 2022-12-24 19:57:33
 Total Cost: 39.9
@@ -7171,7 +7171,7 @@ Items: XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK
 Order Timestamp: 2022-12-03 10:12:00
 Total Cost: 26.09
 Payment Method: EFTPOS
-Items: WTURKEY 101 CAN 4PK, 10% Item Discount 4
+Items: WTURKEY 101 CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-03 10:17:19
 Total Cost: 100.0
@@ -7546,7 +7546,7 @@ Items: HAHN SUPDRY 3.5 BTL CTN
 Order Timestamp: 2022-12-03 14:38:14
 Total Cost: 5.0
 Payment Method: CASH
-Items: DODGE RECOVERY DRINK SGL, 10% Item Discount 4
+Items: DODGE RECOVERY DRINK SGL
 ----------------------------------------
 Order Timestamp: 2022-12-03 14:42:42
 Total Cost: 62.82
@@ -7586,7 +7586,7 @@ Items: SMIRNOFF SELTZER LIME CAN 4PK, 5% BSHOP L.LEGEND
 Order Timestamp: 2022-12-03 15:02:12
 Total Cost: 151.09
 Payment Method: EFTPOS
-Items: SMIRNOFF SELTZER LIME CAN CTN, 10% Item Discount 4, CORONA MEX STUB CTN
+Items: SMIRNOFF SELTZER LIME CAN CTN, CORONA MEX STUB CTN
 ----------------------------------------
 Order Timestamp: 2022-12-03 15:22:45
 Total Cost: None
@@ -7711,7 +7711,7 @@ Items: SQUEALING PIG SAUV. BLANC
 Order Timestamp: 2022-12-03 15:59:46
 Total Cost: 75.58
 Payment Method: EFTPOS
-Items: COKE NO SUGAR 1.25L, 10% Item Discount 4, GENTLEMAN JACK 700ML, 10% Item Discount 4, MCGUIGAN RESERVE IBA SSB, 10% Item Discount 4
+Items: COKE NO SUGAR 1.25L, GENTLEMAN JACK 700ML, MCGUIGAN RESERVE IBA SSB
 ----------------------------------------
 Order Timestamp: 2022-12-03 15:59:48
 Total Cost: 20.0
@@ -7721,7 +7721,7 @@ Items: CARL DRY BTL 6PK
 Order Timestamp: 2022-12-03 16:00:10
 Total Cost: 60.29
 Payment Method: EFTPOS
-Items: COKE NO SUGAR 1.25L, 10% Item Discount 4, BUFFALO TRACE BOURBON 700ML, 10% Item Discount 4
+Items: COKE NO SUGAR 1.25L, BUFFALO TRACE BOURBON 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-03 16:02:00
 Total Cost: 50.83
@@ -8051,7 +8051,7 @@ Items: JACOBS CK SHIRAZ
 Order Timestamp: 2022-12-03 19:11:03
 Total Cost: 61.99
 Payment Method: EFTPOS
-Items: SUNGAZER WATERMELON CAN CTN, 10% Item Discount 4, BROOKVALE VOD LSQ 6% CAN 4PK
+Items: SUNGAZER WATERMELON CAN CTN, BROOKVALE VOD LSQ 6% CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-03 19:11:25
 Total Cost: None
@@ -8091,7 +8091,7 @@ Items: VEUVE CLICQUOT CHAMPAGNE, FIREBALL CINNAMON WHISKY 700, ABSOLUT VODKA 100
 Order Timestamp: 2022-12-18 10:07:07
 Total Cost: 72.0
 Payment Method: CASH
-Items: FIREBALL XMAS ORNAMENT 6PK, 10% Item Discount 4, FIREBALL XMAS ORNAMENT 6PK, 10% Item Discount 4
+Items: FIREBALL XMAS ORNAMENT 6PK, FIREBALL XMAS ORNAMENT 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-18 10:08:59
 Total Cost: 26.580000000000002
@@ -8171,7 +8171,7 @@ Items:
 Order Timestamp: 2022-12-18 12:09:59
 Total Cost: 41.69
 Payment Method: EFTPOS
-Items: MUD HOUSE SAUV BLANC, FOLLOWERS BAY SAUV BLANC, 10% Item Discount 4
+Items: MUD HOUSE SAUV BLANC, FOLLOWERS BAY SAUV BLANC
 ----------------------------------------
 Order Timestamp: 2022-12-18 11:36:08
 Total Cost: 20.89
@@ -8331,7 +8331,7 @@ Items: GOOD TIDES 6.7% B/CURR CAN 4PK, GOOD TIDES 6.7% B/CURR CAN 4PK
 Order Timestamp: 2022-12-18 14:10:33
 Total Cost: 81.88
 Payment Method: EFTPOS
-Items: MONKEY SHOULDER SCOTCH 700ML, 10% Item Discount 4, BRICK LANE BKYDR CAN M8 PK, 10% Item Discount 4
+Items: MONKEY SHOULDER SCOTCH 700ML, BRICK LANE BKYDR CAN M8 PK
 ----------------------------------------
 Order Timestamp: 2022-12-18 14:12:27
 Total Cost: 3.99
@@ -8486,7 +8486,7 @@ Items: XXXX DRY CAN 6PK
 Order Timestamp: 2022-12-18 15:58:19
 Total Cost: 38.65
 Payment Method: CASH
-Items: WAYWARD EVERYDAY LAGER CAN 6PK, 10% Item Discount 4, AMPERSAND WATERMLN 6% CAN SGL, 5% BSHOP L.LEGEND, AMPERSAND PASSION 6% CAN SGL, 5% BSHOP L.LEGEND, VOID, 5% BSHOP L.LEGEND
+Items: WAYWARD EVERYDAY LAGER CAN 6PK, AMPERSAND WATERMLN 6% CAN SGL, 5% BSHOP L.LEGEND, AMPERSAND PASSION 6% CAN SGL, 5% BSHOP L.LEGEND, VOID, 5% BSHOP L.LEGEND
 ----------------------------------------
 Order Timestamp: 2022-12-18 15:58:54
 Total Cost: 29.98
@@ -8566,12 +8566,12 @@ Items:
 Order Timestamp: 2022-12-18 16:53:34
 Total Cost: 24.740000000000002
 Payment Method: EFTPOS
-Items: JDANIEL DBL JACK CAN 4PK, 10% Item Discount 4
+Items: JDANIEL DBL JACK CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-18 17:16:09
 Total Cost: 78.28
 Payment Method: EFTPOS
-Items: BILLSONS VODKA CAN 4PK, 10% Item Discount 4, YOUR MATES LARRY CAN CTN, 10% Item Discount 4
+Items: BILLSONS VODKA CAN 4PK, YOUR MATES LARRY CAN CTN
 ----------------------------------------
 Order Timestamp: 2022-12-18 17:18:51
 Total Cost: 25.64
@@ -8821,7 +8821,7 @@ Items: BYRON BAY LAGER STUB 6PK
 Order Timestamp: 2022-12-08 13:56:41
 Total Cost: 46.78
 Payment Method: EFTPOS
-Items: COOPERS PALE 750ML TALLIE EA, 10% Item Discount 4, COOPERS PALE 750ML TALLIE EA, 10% Item Discount 4, COOPERS MILD ALE BTL 6PK, 10% Item Discount 4, VB CAN 6PK, 10% Item Discount 4
+Items: COOPERS PALE 750ML TALLIE EA, COOPERS PALE 750ML TALLIE EA, COOPERS MILD ALE BTL 6PK, VB CAN 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-08 13:58:17
 Total Cost: 22.0
@@ -9111,7 +9111,7 @@ Items: ARKTIKA SALTED CARAMEL 700ML, JBEAM ZERO CAN EA, JDANIEL COLA 500ML CAN S
 Order Timestamp: 2022-12-08 15:49:51
 Total Cost: 36.89
 Payment Method: EFTPOS
-Items: PEPPERJACK SPARKLING SHIRAZ, 10% Item Discount 4
+Items: PEPPERJACK SPARKLING SHIRAZ
 ----------------------------------------
 Order Timestamp: 2022-12-08 15:50:53
 Total Cost: 7.0
@@ -9311,7 +9311,7 @@ Items: BUNDY COLA 4.6% CAN EA
 Order Timestamp: 2022-12-08 17:04:34
 Total Cost: 49.49
 Payment Method: EFTPOS
-Items: FIREBALL CINNAMON WHISKY 700, 10% Item Discount 4
+Items: FIREBALL CINNAMON WHISKY 700
 ----------------------------------------
 Order Timestamp: 2022-12-08 17:04:46
 Total Cost: 58.0
@@ -9346,7 +9346,7 @@ Items: GENTLEMAN JACK CAN 4PK, CORONA MEX STUB 6PK
 Order Timestamp: 2022-12-08 17:08:50
 Total Cost: 141.99
 Payment Method: EFTPOS
-Items: HAHN SUPER DRY GLUTEN FREE CTN, 10% Item Discount 4, CRUISER BTL 4PK, CRUISER BTL 4PK, CCLUB DRY CAN 10PK, SCHWEPPES TONIC 1.1L, GORDONS GIN 1000ML, SCHWEPPES LEMONADE 1.1L, PEPSI COLA 1.25L, SCHWEPPES 2 FOR 5
+Items: HAHN SUPER DRY GLUTEN FREE CTN, CRUISER BTL 4PK, CRUISER BTL 4PK, CCLUB DRY CAN 10PK, SCHWEPPES TONIC 1.1L, GORDONS GIN 1000ML, SCHWEPPES LEMONADE 1.1L, PEPSI COLA 1.25L, SCHWEPPES 2 FOR 5
 ----------------------------------------
 Order Timestamp: 2022-12-08 17:21:40
 Total Cost: 54.0
@@ -9496,7 +9496,7 @@ Items: JBEAM COLA 500ML BTL EA, VOID, VOID, XXXX GOLD CAN CTN 30PK, VOID, XXXX D
 Order Timestamp: 2022-12-08 18:13:56
 Total Cost: 23.85
 Payment Method: EFTPOS
-Items: XXXX GOLD CAN CTN 30PK, XXXX DRY CAN 6PK, PARTY SHOTS SGL, 10% Item Discount 4, PARTY SHOTS SGL, 10% Item Discount 4, BILLSONS VODKA CAN SGL, 10% Item Discount 4, BILLSONS VODKA CAN SGL, 10% Item Discount 4
+Items: XXXX GOLD CAN CTN 30PK, XXXX DRY CAN 6PK, PARTY SHOTS SGL, PARTY SHOTS SGL, BILLSONS VODKA CAN SGL, BILLSONS VODKA CAN SGL
 ----------------------------------------
 Order Timestamp: 2022-12-08 18:43:26
 Total Cost: 19.0
@@ -9551,12 +9551,12 @@ Items: BUNDY RED/COLA CAN 6PK
 Order Timestamp: 2022-12-08 19:02:28
 Total Cost: None
 Payment Method: None
-Items: BROOKVALE VOD LSQ 6% CAN 4PK, 10% Item Discount 4, EL JIMADOR TEQUILA 700ML
+Items: BROOKVALE VOD LSQ 6% CAN 4PK, EL JIMADOR TEQUILA 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-09 09:30:25
 Total Cost: 1703.52
 Payment Method: EFTPOS
-Items: BROOKVALE GINGER 330ML CAN CTN, BUNDY UP RUM 700ML, CORONA MEX STUB CTN, GREAT NTHN MID 30 BLOCK, GREAT NTHN MID STUB CTN, JDANIEL 700ML, XXXX GOLD STUB CTN, STONE & WOOD ALE CTN, 10% Item Discount 4, VB STUB CTN, 10% Item Discount 4, WTURKEY 700ML, 10% Item Discount 4, CUERVO MARGARITA CAN CTN, 10% Item Discount 4, ROKU GIN 700ML, VOID, BROOKVALE GINGER 330ML CAN CTN, VOID, GREAT NTHN ORIGINAL STUB CTN
+Items: BROOKVALE GINGER 330ML CAN CTN, BUNDY UP RUM 700ML, CORONA MEX STUB CTN, GREAT NTHN MID 30 BLOCK, GREAT NTHN MID STUB CTN, JDANIEL 700ML, XXXX GOLD STUB CTN, STONE & WOOD ALE CTN, VB STUB CTN, WTURKEY 700ML, CUERVO MARGARITA CAN CTN, ROKU GIN 700ML, VOID, BROOKVALE GINGER 330ML CAN CTN, VOID, GREAT NTHN ORIGINAL STUB CTN
 ----------------------------------------
 Order Timestamp: 2022-12-09 09:37:00
 Total Cost: 36.99
@@ -9981,12 +9981,12 @@ Items: JDANIEL DBL JACK CAN 4PK
 Order Timestamp: 2022-12-09 14:38:27
 Total Cost: 52.2
 Payment Method: CASH
-Items: FIREBALL APPLE 6.6% CAN 4PK, 10% Item Discount 4, SMIRN RED 4.5% CAN 6PK, 10% Item Discount 4
+Items: FIREBALL APPLE 6.6% CAN 4PK, SMIRN RED 4.5% CAN 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-09 14:38:45
 Total Cost: 52.18
 Payment Method: EFTPOS
-Items: FIREBALL APPLE 6.6% CAN 4PK, 10% Item Discount 4, SMIRN RED 4.5% CAN 6PK, 10% Item Discount 4
+Items: FIREBALL APPLE 6.6% CAN 4PK, SMIRN RED 4.5% CAN 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-09 14:39:09
 Total Cost: -58.0
@@ -10366,7 +10366,7 @@ Items: CRUISER MIXED 10PK, CRUISER MIXED 10PK, JDANIEL COLA CAN 10PK
 Order Timestamp: 2022-12-09 15:59:31
 Total Cost: 30.0
 Payment Method: CASH
-Items: GREAT NTHN MID 30 BLOCK, TERELLA SESSION ALE CAN SGL, COOPERS PALE 750ML TALLIE EA, 5% BSHOP L.LEGEND, VOID, 10% Item Discount 4
+Items: GREAT NTHN MID 30 BLOCK, TERELLA SESSION ALE CAN SGL, COOPERS PALE 750ML TALLIE EA, 5% BSHOP L.LEGEND, VOID
 ----------------------------------------
 Order Timestamp: 2022-12-09 16:08:45
 Total Cost: 54.0
@@ -10401,7 +10401,7 @@ Items: BIGHEAD 330ML CTN
 Order Timestamp: 2022-12-09 16:12:44
 Total Cost: 53.09
 Payment Method: EFTPOS
-Items: BLACKFLAG KICK ONS MID CAN CTN, 10% Item Discount 4
+Items: BLACKFLAG KICK ONS MID CAN CTN
 ----------------------------------------
 Order Timestamp: 2022-12-09 16:12:56
 Total Cost: 28.990000000000002
@@ -10461,7 +10461,7 @@ Items: BUNDY COLA 4.6% CAN 6PK, BUNDY COLA 4.6% CAN 6PK, VOID, BRANDS LAIRA BLOC
 Order Timestamp: 2022-12-09 16:24:10
 Total Cost: 42.56
 Payment Method: EFTPOS
-Items: BRANDS LAIRA BLOCKER CAB SAUV, BRANDS LAIRA BLOCKER CAB SAUV, BRANDS LAIRA BLOCKER SHIRAZ, CARL DRY CAN 30PK CUBE, 10% Item Discount 4, COKE NO SUGAR 1.25L, 10% Item Discount 4
+Items: BRANDS LAIRA BLOCKER CAB SAUV, BRANDS LAIRA BLOCKER CAB SAUV, BRANDS LAIRA BLOCKER SHIRAZ, CARL DRY CAN 30PK CUBE, COKE NO SUGAR 1.25L
 ----------------------------------------
 Order Timestamp: 2022-12-09 16:30:14
 Total Cost: None
@@ -10731,7 +10731,7 @@ Items: XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK
 Order Timestamp: 2022-12-09 17:47:35
 Total Cost: 55.39
 Payment Method: EFTPOS
-Items: HARD FIZZ LYCHEE SELTZ CAN 4PK, 10% Item Discount 4, WIRRA WIRRA CHURCH BLOCK, 10% Item Discount 4, FARM HAND ORGANIC SHIRAZ, 10% Item Discount 4
+Items: HARD FIZZ LYCHEE SELTZ CAN 4PK, WIRRA WIRRA CHURCH BLOCK, FARM HAND ORGANIC SHIRAZ
 ----------------------------------------
 Order Timestamp: 2022-12-09 17:48:48
 Total Cost: None
@@ -10821,7 +10821,7 @@ Items: LITTLE FAT LAMB 1.25LT S/LIME, LITTLE FAT LAMB 1.25L G/BEER
 Order Timestamp: 2022-12-09 18:30:04
 Total Cost: 261.75
 Payment Method: EFTPOS
-Items: JDANIEL COLA CUBE CTN, 10% Item Discount 4, JDANIEL COLA CUBE CTN, 10% Item Discount 4, JDANIEL COLA CUBE CTN, 10% Item Discount 4, ICE 5kg BAG, ICE 5kg BAG
+Items: JDANIEL COLA CUBE CTN, JDANIEL COLA CUBE CTN, JDANIEL COLA CUBE CTN, ICE 5kg BAG, ICE 5kg BAG
 ----------------------------------------
 Order Timestamp: 2022-12-09 18:31:00
 Total Cost: 45.99
@@ -10926,7 +10926,7 @@ Items: GORDONS GIN 1000ML
 Order Timestamp: 2022-12-26 10:13:45
 Total Cost: 35.09
 Payment Method: EFTPOS
-Items: BAILEYS ORIGINAL 700ML, 10% Item Discount 4
+Items: BAILEYS ORIGINAL 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-26 10:14:20
 Total Cost: 39.980000000000004
@@ -11156,7 +11156,7 @@ Items: FURPHY ALE 750ML SGL
 Order Timestamp: 2022-12-26 12:56:11
 Total Cost: 49.0
 Payment Method: EFTPOS
-Items: CHEMIN DES SABLES ROSE, 10% Item Discount 4, CHEMIN DES SABLES ROSE, 10% Item Discount 4, CHEMIN DES SABLES ROSE
+Items: CHEMIN DES SABLES ROSE, CHEMIN DES SABLES ROSE, CHEMIN DES SABLES ROSE
 ----------------------------------------
 Order Timestamp: 2022-12-26 13:18:02
 Total Cost: None
@@ -11166,7 +11166,7 @@ Items:
 Order Timestamp: 2022-12-26 13:48:45
 Total Cost: 114.69
 Payment Method: EFTPOS
-Items: STONE & WOOD ALE CTN, 10% Item Discount 4, WIRRA WIRRA CHURCH BLOCK, WIRRA WIRRA CHURCH BLOCK
+Items: STONE & WOOD ALE CTN, WIRRA WIRRA CHURCH BLOCK, WIRRA WIRRA CHURCH BLOCK
 ----------------------------------------
 Order Timestamp: 2022-12-26 13:24:29
 Total Cost: 100.0
@@ -11221,7 +11221,7 @@ Items: 4 PINES PACIFIC ALE STB CTN
 Order Timestamp: 2022-12-26 14:13:56
 Total Cost: 103.47
 Payment Method: EFTPOS
-Items: BROOKVALE VOD LSQ 6% CAN CTN, 10% Item Discount 4, RED ROCK SEA SALT 90G, 10% Item Discount 4, RED ROCK SW CHILLI SR CRM 90G, 10% Item Discount 4
+Items: BROOKVALE VOD LSQ 6% CAN CTN, RED ROCK SEA SALT 90G, RED ROCK SW CHILLI SR CRM 90G
 ----------------------------------------
 Order Timestamp: 2022-12-26 14:15:51
 Total Cost: 131.0
@@ -11591,7 +11591,7 @@ Items: GREAT NTHN ORIGINAL CAN 30CTN
 Order Timestamp: 2022-12-21 13:13:08
 Total Cost: 61.19
 Payment Method: EFTPOS
-Items: CROWN LAGER STUB CTN, 10% Item Discount 4
+Items: CROWN LAGER STUB CTN
 ----------------------------------------
 Order Timestamp: 2022-12-21 13:23:21
 Total Cost: None
@@ -11616,7 +11616,7 @@ Items: JBEAM COLA 4.8% CAN 10PK
 Order Timestamp: 2022-12-21 13:29:17
 Total Cost: 591.28
 Payment Method: EFTPOS
-Items: SOMERSBY PEAR CIDER 3X10PK, 10% Item Discount 4, STONE & WOOD ALE CTN, 10% Item Discount 4, J SQUIRE GINGER BEER CAN CTN, 10% Item Discount 4, CORONA MEX STUB CTN, 10% Item Discount 4, JACOBS CK STILL MOSCATO WHT, 10% Item Discount 4, MALIBU WHT 700ML, 10% Item Discount 4, FIREBALL APPLE 6.6% CAN SGL, 10% Item Discount 4, VOID, CORONA MEX STUB CTN, VOID, JACOBS CK STILL MOSCATO WHT, VOID, J SQUIRE GINGER BEER CAN CTN
+Items: SOMERSBY PEAR CIDER 3X10PK, STONE & WOOD ALE CTN, J SQUIRE GINGER BEER CAN CTN, CORONA MEX STUB CTN, JACOBS CK STILL MOSCATO WHT, MALIBU WHT 700ML, FIREBALL APPLE 6.6% CAN SGL, VOID, CORONA MEX STUB CTN, VOID, JACOBS CK STILL MOSCATO WHT, VOID, J SQUIRE GINGER BEER CAN CTN
 ----------------------------------------
 Order Timestamp: 2022-12-21 13:30:07
 Total Cost: 55.99
@@ -11761,7 +11761,7 @@ Items: BALTER IPA CAN 4PK, WEST COAST COOLER BTL CTN, XXXX GOLD CAN CTN 30PK, VO
 Order Timestamp: 2022-12-21 14:24:07
 Total Cost: 9.9
 Payment Method: EFTPOS
-Items: BUNDY UP/COLA 640ML EA, 10% Item Discount 4
+Items: BUNDY UP/COLA 640ML EA
 ----------------------------------------
 Order Timestamp: 2022-12-21 14:24:21
 Total Cost: 40.0
@@ -12376,7 +12376,7 @@ Items: BEARDED LADY COLA 12% CAN SGL, 5% BSHOP L.LEGEND
 Order Timestamp: 2022-12-21 18:38:13
 Total Cost: 14.4
 Payment Method: EFTPOS
-Items: GREAT NTHN MID 3 PACK, 10% Item Discount 4, HARD ROCK LIME 500ML CAN SGL, 10% Item Discount 4
+Items: GREAT NTHN MID 3 PACK, HARD ROCK LIME 500ML CAN SGL
 ----------------------------------------
 Order Timestamp: 2022-12-21 19:04:23
 Total Cost: 22.490000000000002
@@ -12421,7 +12421,7 @@ Items: BUNDY COLA 4.6% CAN 6PK, BUNDY COLA 4.6% CAN 6PK, SQUEALING PIG SAUV. BLA
 Order Timestamp: 2022-12-31 09:58:59
 Total Cost: 51.730000000000004
 Payment Method: EFTPOS
-Items: WBLASS RED LABEL P/CHARD, 10% Item Discount 4, JDANIEL DBL JACK CAN 4PK, 10% Item Discount 4, VB CAN 6PK, 10% Item Discount 4
+Items: WBLASS RED LABEL P/CHARD, JDANIEL DBL JACK CAN 4PK, VB CAN 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-31 10:01:18
 Total Cost: 27.0
@@ -12896,7 +12896,7 @@ Items: CRUISER ZERO MIXED 10PK, JDANIEL DBL JACK CAN 4PK
 Order Timestamp: 2022-12-31 14:11:39
 Total Cost: 53.9
 Payment Method: EFTPOS
-Items: GREAT NTHN ORIGINAL STUB 6PK, 10% Item Discount 4, EAST COAST GRAPE MAGIC VODKA, 10% Item Discount 4, FIREBALL COLA 6.6% CAN SGL
+Items: GREAT NTHN ORIGINAL STUB 6PK, EAST COAST GRAPE MAGIC VODKA, FIREBALL COLA 6.6% CAN SGL
 ----------------------------------------
 Order Timestamp: 2022-12-31 14:22:26
 Total Cost: 76.0
@@ -12926,7 +12926,7 @@ Items: WSTOCK COLA 4.8% 375ML CAN 6PK, WSTOCK COLA 4.8% 375ML CAN 6PK
 Order Timestamp: 2022-12-31 14:26:13
 Total Cost: 67.99
 Payment Method: EFTPOS
-Items: JAMESON DRY & LIME 4PK, 10% Item Discount 4, BACARDI RUM 700ML, 10% Item Discount 4
+Items: JAMESON DRY & LIME 4PK, BACARDI RUM 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-31 14:27:03
 Total Cost: 10.0
@@ -12996,7 +12996,7 @@ Items: COOL RIDGE SPRING WATER 600ML, COOL RIDGE SPRING WATER 600ML, JBEAM 700ML
 Order Timestamp: 2022-12-31 14:51:53
 Total Cost: 50.09
 Payment Method: EFTPOS
-Items: MEZZACORONA GLACIAL BUBBLY, FELONS CHAMPAGNE SOUR CAN 4PK, 10% Item Discount 4
+Items: MEZZACORONA GLACIAL BUBBLY, FELONS CHAMPAGNE SOUR CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-31 14:54:27
 Total Cost: 23.990000000000002
@@ -13106,7 +13106,7 @@ Items: SOVEREIGN POINT CASK 4.4LT, SOVEREIGN POINT CASK 4.4LT, 10 TOES IPA CAN S
 Order Timestamp: 2022-12-31 15:30:00
 Total Cost: 28.01
 Payment Method: EFTPOS
-Items: JDANIEL COLA CAN EA, 5% BSHOP L.LEGEND, WTURKEY C/D CAN EA, 5% BSHOP L.LEGEND, GREAT NTHN ZERO CAN 6PK, 5% BSHOP L.LEGEND, VOID, 10% Item Discount 4
+Items: JDANIEL COLA CAN EA, 5% BSHOP L.LEGEND, WTURKEY C/D CAN EA, 5% BSHOP L.LEGEND, GREAT NTHN ZERO CAN 6PK, 5% BSHOP L.LEGEND, VOID
 ----------------------------------------
 Order Timestamp: 2022-12-31 15:30:57
 Total Cost: 8.5
@@ -13161,7 +13161,7 @@ Items: BUNDY GINGER CAN 10PK, GREAT NTHN ORIGINAL STUB 6PK
 Order Timestamp: 2022-12-31 15:45:00
 Total Cost: 100.0
 Payment Method: CASH
-Items: BUNDY VAT/COLA CAN 4PK, 10% Item Discount 4, PETER LEHMANN PORTRAIT SHIRAZ, PETER LEHMANN PORTRAIT SHIRAZ, PETER LEHMANN PORTRAIT SHIRAZ, VOID, PETER LEHMANN PORTRAIT SHIRAZ
+Items: BUNDY VAT/COLA CAN 4PK, PETER LEHMANN PORTRAIT SHIRAZ, PETER LEHMANN PORTRAIT SHIRAZ, PETER LEHMANN PORTRAIT SHIRAZ, VOID, PETER LEHMANN PORTRAIT SHIRAZ
 ----------------------------------------
 Order Timestamp: 2022-12-31 15:45:15
 Total Cost: 57.99
@@ -13186,7 +13186,7 @@ Items: BILLSONS VODKA CAN 4PK, SHEEP DOG PNT/BTR WHISKY 700ML, GREAT NTHN ORIGIN
 Order Timestamp: 2022-12-31 15:49:38
 Total Cost: 59.5
 Payment Method: CASH
-Items: CARL MID STUB EA, 10% Item Discount 4, JDANIEL DBL JACK 10PK
+Items: CARL MID STUB EA, JDANIEL DBL JACK 10PK
 ----------------------------------------
 Order Timestamp: 2022-12-31 15:50:27
 Total Cost: 20.990000000000002
@@ -13391,7 +13391,7 @@ Items: NS1, NO SALE
 Order Timestamp: 2022-12-31 16:44:15
 Total Cost: 8.0
 Payment Method: EFTPOS
-Items: HAHN SUPER DRY GLUTEN FREE CTN, 10% Item Discount 4
+Items: HAHN SUPER DRY GLUTEN FREE CTN
 ----------------------------------------
 Order Timestamp: 2022-12-31 16:56:09
 Total Cost: None
@@ -13756,7 +13756,7 @@ Items: *** End of Shift ***
 Order Timestamp: 2022-12-28 09:51:33
 Total Cost: 44.99
 Payment Method: EFTPOS
-Items: GORDONS FLAVOURS MIXED 12PK, 10% Item Discount 4
+Items: GORDONS FLAVOURS MIXED 12PK
 ----------------------------------------
 Order Timestamp: 2022-12-28 09:59:44
 Total Cost: 45.0
@@ -14391,7 +14391,7 @@ Items: BUNDY UP/COLA 640ML EA
 Order Timestamp: 2022-12-28 18:43:53
 Total Cost: 46.800000000000004
 Payment Method: EFTPOS
-Items: CRUISER 600ML BTL SGL, CRUISER 600ML BTL SGL, HARD ROCK LIME 500ML CAN SGL, 10% Item Discount 4, HARD ROCK PASSN 500ML CAN SGL, 10% Item Discount 4, VOID, HARD ROCK LIME 500ML CAN SGL
+Items: CRUISER 600ML BTL SGL, CRUISER 600ML BTL SGL, HARD ROCK LIME 500ML CAN SGL, HARD ROCK PASSN 500ML CAN SGL, VOID, HARD ROCK LIME 500ML CAN SGL
 ----------------------------------------
 Order Timestamp: 2022-12-28 18:45:41
 Total Cost: 21.990000000000002
@@ -14551,7 +14551,7 @@ Items: VB STUB 6PK, 5% BSHOP L.LEGEND
 Order Timestamp: 2022-12-29 12:13:14
 Total Cost: 58.49
 Payment Method: EFTPOS
-Items: CCLUB 1LTR, 10% Item Discount 4
+Items: CCLUB 1LTR
 ----------------------------------------
 Order Timestamp: 2022-12-29 12:13:38
 Total Cost: 23.990000000000002
@@ -14601,7 +14601,7 @@ Items: JIM BARRY WATERVALE RIESLING, TOOHEYS OLD STUB CTN, VOID, TOOHEYS OLD STU
 Order Timestamp: 2022-12-29 12:57:52
 Total Cost: 137.01
 Payment Method: EFTPOS
-Items: BERTON METAL GOLD SHIRAZ, 10% Item Discount 4, WHITECLAW VARIETY CAN 10PK, 10% Item Discount 4
+Items: BERTON METAL GOLD SHIRAZ, WHITECLAW VARIETY CAN 10PK
 ----------------------------------------
 Order Timestamp: 2022-12-29 12:58:16
 Total Cost: 40.0
@@ -15101,7 +15101,7 @@ Items: XXXX DRY CAN 6PK, SUNTORY 196 GRAPE 6% CAN 10PK
 Order Timestamp: 2022-12-17 11:16:46
 Total Cost: 350.0
 Payment Method: CASH
-Items: YAMAZAKI DISTILLERS RSV WHISKY, 5% BSHOP L.LEGEND, GREY GOOSE VODKA 700ML, 10% Item Discount 4, FIREBALL CINNAMON WHISKY 700, 10% Item Discount 4, ASAHI SUPER DRY CTN, 10% Item Discount 4, VOID, 5% BSHOP L.LEGEND, VOID, 5% BSHOP L.LEGEND
+Items: YAMAZAKI DISTILLERS RSV WHISKY, 5% BSHOP L.LEGEND, GREY GOOSE VODKA 700ML, FIREBALL CINNAMON WHISKY 700, ASAHI SUPER DRY CTN, VOID, 5% BSHOP L.LEGEND, VOID, 5% BSHOP L.LEGEND
 ----------------------------------------
 Order Timestamp: 2022-12-17 11:17:05
 Total Cost: 23.990000000000002
@@ -15621,7 +15621,7 @@ Items: XXXX DRY CAN 6PK, 0.60  RETAIL HAPPY HR XXXX DRY 6PK, 5% BSHOP L.LEGEND, 
 Order Timestamp: 2022-12-17 16:04:41
 Total Cost: 100.0
 Payment Method: CASH
-Items: BUNDY VAT/COLA CAN EA, 10% Item Discount 4, BUNDY VAT/COLA CAN EA, 10% Item Discount 4, PETER LEHMANN PORTRAIT SHIRAZ, PETER LEHMANN PORTRAIT SHIRAZ, PETER LEHMANN PORTRAIT SHIRAZ, TOOHEYS EXTRA DRY EA, 10% Item Discount 4, VOID, 10% Item Discount 4, VOID, TOOHEYS EXTRA DRY EA
+Items: BUNDY VAT/COLA CAN EA, BUNDY VAT/COLA CAN EA, PETER LEHMANN PORTRAIT SHIRAZ, PETER LEHMANN PORTRAIT SHIRAZ, PETER LEHMANN PORTRAIT SHIRAZ, TOOHEYS EXTRA DRY EA, VOID, VOID, TOOHEYS EXTRA DRY EA
 ----------------------------------------
 Order Timestamp: 2022-12-17 16:06:27
 Total Cost: 14.49
@@ -15686,7 +15686,7 @@ Items: BILLSONS VODKA CAN 4PK, BUNDY COLA 4.6% CAN 6PK, VOID, JDANIEL DBL JACK 1
 Order Timestamp: 2022-12-17 16:24:48
 Total Cost: 60.39
 Payment Method: EFTPOS
-Items: 4 PINES PACIFIC ALE STB CTN, 10% Item Discount 4, PARTY SHOTS 4PK, 10% Item Discount 4
+Items: 4 PINES PACIFIC ALE STB CTN, PARTY SHOTS 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-17 16:26:28
 Total Cost: 22.990000000000002
@@ -15711,7 +15711,7 @@ Items: CRUISER BTL 4PK, JDANIEL COLA BTL 4PK
 Order Timestamp: 2022-12-17 16:37:39
 Total Cost: 50.0
 Payment Method: CASH
-Items: JBEAM BLK DBL SRV 4PK, 10% Item Discount 4, VOID, 5% BSHOP L.LEGEND
+Items: JBEAM BLK DBL SRV 4PK, VOID, 5% BSHOP L.LEGEND
 ----------------------------------------
 Order Timestamp: 2022-12-17 16:38:35
 Total Cost: 7.5
@@ -15876,7 +15876,7 @@ Items: BERTON METAL GOLD SHIRAZ, BERTON METAL GOLD SHIRAZ, FARM HAND ORGANIC MER
 Order Timestamp: 2022-12-17 18:25:22
 Total Cost: 22.5
 Payment Method: EFTPOS
-Items: HARD ROCK LIME 500ML CAN SGL, 10% Item Discount 4, HARD ROCK PASSN 500ML CAN SGL, 10% Item Discount 4, GRAINSHAKER WILD GUAVA BTL 4PK, 10% Item Discount 4, VOID
+Items: HARD ROCK LIME 500ML CAN SGL, HARD ROCK PASSN 500ML CAN SGL, GRAINSHAKER WILD GUAVA BTL 4PK, VOID
 ----------------------------------------
 Order Timestamp: 2022-12-17 18:27:27
 Total Cost: 20.990000000000002
@@ -16056,7 +16056,7 @@ Items: CRUISER BTL 4PK, CRUISER BTL 4PK, VOID, VB 750ML 3 FOR
 Order Timestamp: 2022-12-07 11:46:54
 Total Cost: 88.0
 Payment Method: EFTPOS
-Items: VB 750ML 3 FOR, 10% Item Discount 4, VOID, 10% Item Discount 4
+Items: VB 750ML 3 FOR, VOID
 ----------------------------------------
 Order Timestamp: 2022-12-07 12:23:56
 Total Cost: 3.8000000000000003
@@ -16181,12 +16181,12 @@ Items: JDANIEL COLA ZERO CAN 4PK
 Order Timestamp: 2022-12-07 13:47:05
 Total Cost: 61.19
 Payment Method: EFTPOS
-Items: WOODFORD RESERVE 375ML, 5% BSHOP L.LEGEND, 10% Item Discount 4
+Items: WOODFORD RESERVE 375ML, 5% BSHOP L.LEGEND
 ----------------------------------------
 Order Timestamp: 2022-12-07 14:04:48
 Total Cost: 60.29
 Payment Method: EFTPOS
-Items: GREAT NTHN ORIGINAL CAN 30CTN, 10% Item Discount 4, VOID, 5% BSHOP L.LEGEND
+Items: GREAT NTHN ORIGINAL CAN 30CTN, VOID, 5% BSHOP L.LEGEND
 ----------------------------------------
 Order Timestamp: 2022-12-07 14:06:14
 Total Cost: 54.0
@@ -16671,7 +16671,7 @@ Items: XXXX GOLD CAN 6PK
 Order Timestamp: 2022-12-07 16:57:09
 Total Cost: 4.05
 Payment Method: EFTPOS
-Items: SAMBOY ATOMIC TOMATO 175G, 10% Item Discount 4
+Items: SAMBOY ATOMIC TOMATO 175G
 ----------------------------------------
 Order Timestamp: 2022-12-07 16:57:13
 Total Cost: None
@@ -16941,7 +16941,7 @@ Items: JWALKER RED 700ML, ICE 5kg BAG
 Order Timestamp: 2022-12-07 18:56:01
 Total Cost: 17.990000000000002
 Payment Method: EFTPOS
-Items: FLASHBACK SOUR GRAPE CAN 4PK, 10% Item Discount 4
+Items: FLASHBACK SOUR GRAPE CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-07 18:59:47
 Total Cost: None
@@ -17126,7 +17126,7 @@ Items: FLYING DUTCH 1 LITRE TALLY
 Order Timestamp: 2022-12-16 12:34:01
 Total Cost: 60.29
 Payment Method: EFTPOS
-Items: GREAT NTHN MID STUB 6PK, GREAT NTHN ORIGINAL CAN 30CTN, 10% Item Discount 4
+Items: GREAT NTHN MID STUB 6PK, GREAT NTHN ORIGINAL CAN 30CTN
 ----------------------------------------
 Order Timestamp: 2022-12-16 12:52:50
 Total Cost: 10.0
@@ -17181,7 +17181,7 @@ Items: BUNDY COLA 4.6% CAN 6PK, BUNDY COLA 4.6% CAN 6PK, TOOHEYS NEW 750 ML EA, 
 Order Timestamp: 2022-12-16 13:09:40
 Total Cost: 54.0
 Payment Method: EFTPOS
-Items: CROWN LAGER STUB CTN, 10% Item Discount 4, PEPSI COLA 1.25L, 10% Item Discount 4, GREAT NTHN ORIGINAL STUB CTN, VOID
+Items: CROWN LAGER STUB CTN, PEPSI COLA 1.25L, GREAT NTHN ORIGINAL STUB CTN, VOID
 ----------------------------------------
 Order Timestamp: 2022-12-16 13:22:18
 Total Cost: None
@@ -17446,7 +17446,7 @@ Items: BROOKVALE GINGER 330ML CAN 6PK, 5% BSHOP L.LEGEND, UDL CAN 6PK, 5% BSHOP 
 Order Timestamp: 2022-12-16 14:59:50
 Total Cost: 42.730000000000004
 Payment Method: EFTPOS
-Items: VB CAN 6PK, 10% Item Discount 4, JDANIEL DBL JACK CAN 4PK, 10% Item Discount 4
+Items: VB CAN 6PK, JDANIEL DBL JACK CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-16 15:00:45
 Total Cost: 7.5
@@ -17686,7 +17686,7 @@ Items: BROOKVALE GINGER 330ML CAN 6PK, BROOKVALE GINGER 330ML CAN 6PK
 Order Timestamp: 2022-12-16 16:02:05
 Total Cost: 277.87
 Payment Method: EFTPOS
-Items: GOOD TIDES SELTZ RASPB CAN CTN, 5% BSHOP L.LEGEND, GOOD TIDES SELTZ RASPB CAN CTN, 5% BSHOP L.LEGEND, SUNTORY 196 LEMON 6% CAN 10PK, 5% BSHOP L.LEGEND, CARL DRY CAN 30PK CUBE, 10% Item Discount 4, VOID, 5% BSHOP L.LEGEND
+Items: GOOD TIDES SELTZ RASPB CAN CTN, 5% BSHOP L.LEGEND, GOOD TIDES SELTZ RASPB CAN CTN, 5% BSHOP L.LEGEND, SUNTORY 196 LEMON 6% CAN 10PK, 5% BSHOP L.LEGEND, CARL DRY CAN 30PK CUBE, VOID, 5% BSHOP L.LEGEND
 ----------------------------------------
 Order Timestamp: 2022-12-16 16:14:23
 Total Cost: None
@@ -17731,7 +17731,7 @@ Items: GREAT NTHN ORIGINAL STUB CTN
 Order Timestamp: 2022-12-16 16:16:30
 Total Cost: 69.72
 Payment Method: EFTPOS
-Items: JDANIEL DBL JACK CAN 4PK, 10% Item Discount 4, SMIRN BLK/GUARANA 4PK, 10% Item Discount 4, SMIRN BLK/GUARANA 4PK, 10% Item Discount 4
+Items: JDANIEL DBL JACK CAN 4PK, SMIRN BLK/GUARANA 4PK, SMIRN BLK/GUARANA 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-16 16:16:59
 Total Cost: 10.0
@@ -17876,7 +17876,7 @@ Items: SMIRNOFF SELTZER LIME CAN CTN, 5% BSHOP L.LEGEND
 Order Timestamp: 2022-12-16 16:47:34
 Total Cost: 18.0
 Payment Method: CASH
-Items: MORNINGTON BROWN ALE CAN 6PK, 10% Item Discount 4
+Items: MORNINGTON BROWN ALE CAN 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-16 16:47:59
 Total Cost: 65.0
@@ -17951,7 +17951,7 @@ Items: BUNDY GINGER 4% CAN 6PK
 Order Timestamp: 2022-12-16 17:07:19
 Total Cost: 88.39
 Payment Method: EFTPOS
-Items: KYLIE MINOGUE SIGNATURE ROSE, 10% Item Discount 4, ABSOLUT VODKA 1000ML, 10% Item Discount 4, VOID, BILLSONS VODKA CAN 4PK
+Items: KYLIE MINOGUE SIGNATURE ROSE, ABSOLUT VODKA 1000ML, VOID, BILLSONS VODKA CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-16 17:07:28
 Total Cost: None
@@ -18326,7 +18326,7 @@ Items: NS1, NO SALE, VOID, XXXX GOLD CAN 6PK, VOID, HEADS NOOSA IMPERIAL LAGER S
 Order Timestamp: 2022-12-16 20:45:39
 Total Cost: 15.74
 Payment Method: EFTPOS
-Items: GREAT NTHN MID STUB 6PK, 10% Item Discount 4
+Items: GREAT NTHN MID STUB 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-16 20:46:33
 Total Cost: None
@@ -18701,7 +18701,7 @@ Items: XXXX BITTER CAN CTN 30PK
 Order Timestamp: 2022-12-06 15:17:49
 Total Cost: 22.04
 Payment Method: EFTPOS
-Items: VB CAN 6PK, 10% Item Discount 4, SAMBOY BBQ BLAST 175G, 10% Item Discount 4, VOID, 5% BSHOP L.LEGEND
+Items: VB CAN 6PK, SAMBOY BBQ BLAST 175G, VOID, 5% BSHOP L.LEGEND
 ----------------------------------------
 Order Timestamp: 2022-12-06 15:30:47
 Total Cost: None
@@ -18721,7 +18721,7 @@ Items: XXXX GOLD CAN 6PK
 Order Timestamp: 2022-12-06 15:19:54
 Total Cost: 25.19
 Payment Method: EFTPOS
-Items: COOPERS MILD ALE BTL 6PK, 10% Item Discount 4, YELLOW TAIL CAB MERLOT, 10% Item Discount 4
+Items: COOPERS MILD ALE BTL 6PK, YELLOW TAIL CAB MERLOT
 ----------------------------------------
 Order Timestamp: 2022-12-06 15:20:32
 Total Cost: 30.0
@@ -18786,7 +18786,7 @@ Items: BROWN BROS MOSCATO, BROWN BROS MOSCATO, GREAT NTHN ORIGINAL STUB CTN
 Order Timestamp: 2022-12-06 15:42:28
 Total Cost: 20.0
 Payment Method: CASH
-Items: WSTOCK/COLA 6% 4PK, 10% Item Discount 4
+Items: WSTOCK/COLA 6% 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-06 15:42:57
 Total Cost: 10.0
@@ -19106,7 +19106,7 @@ Items: WSTOCK 6% TALLIE EACH
 Order Timestamp: 2022-12-06 17:21:34
 Total Cost: 94.49
 Payment Method: EFTPOS
-Items: ZACAPA CENT 23 DARK RUM, 10% Item Discount 4, VOID, RON BARCELO IMPERIAL RUM, VOID, ZACAPA CENT 23 DARK RUM
+Items: ZACAPA CENT 23 DARK RUM, VOID, RON BARCELO IMPERIAL RUM, VOID, ZACAPA CENT 23 DARK RUM
 ----------------------------------------
 Order Timestamp: 2022-12-06 17:22:53
 Total Cost: 25.0
@@ -19246,7 +19246,7 @@ Items: JAMESON DRY & LIME 10PK, WILD BOAR SCOTCH 15% 375ML 3PK
 Order Timestamp: 2022-12-06 18:06:57
 Total Cost: 20.69
 Payment Method: EFTPOS
-Items: BILLSONS VODKA CAN 4PK, 10% Item Discount 4
+Items: BILLSONS VODKA CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-06 18:10:12
 Total Cost: 23.990000000000002
@@ -19261,12 +19261,12 @@ Items: YOUNG HENRYS IPA ALE SGL, STONE & WOOD CLOUD CATCH SGL, SAPPORO 650ML CAN
 Order Timestamp: 2022-12-06 18:39:04
 Total Cost: 17.96
 Payment Method: EFTPOS
-Items: VERANO VARIETY 500ML SGL, 10% Item Discount 4, VERANO VARIETY 500ML SGL, 10% Item Discount 4, VERANO VARIETY 500ML SGL, 10% Item Discount 4, VERANO VARIETY 500ML SGL, 10% Item Discount 4
+Items: VERANO VARIETY 500ML SGL, VERANO VARIETY 500ML SGL, VERANO VARIETY 500ML SGL, VERANO VARIETY 500ML SGL
 ----------------------------------------
 Order Timestamp: 2022-12-06 18:43:42
 Total Cost: 8.0
 Payment Method: CASH
-Items: MALFY GIN TONICA LEMON BTL SGL, 10% Item Discount 4
+Items: MALFY GIN TONICA LEMON BTL SGL
 ----------------------------------------
 Order Timestamp: 2022-12-06 18:45:46
 Total Cost: None
@@ -19411,7 +19411,7 @@ Items:
 Order Timestamp: 2022-12-30 11:12:10
 Total Cost: 90.59
 Payment Method: EFTPOS
-Items: YOUR MATES LARRY CAN CTN, 10% Item Discount 4, KAHLUA 700ML, 10% Item Discount 4
+Items: YOUR MATES LARRY CAN CTN, KAHLUA 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-30 11:15:50
 Total Cost: 200.97
@@ -19521,7 +19521,7 @@ Items: HARD FIZZ EXTRA BERRY CAN 4PK, SAMBOY BBQ BLAST 175G, SCHULTES CHILLI BEE
 Order Timestamp: 2022-12-30 12:43:37
 Total Cost: 6.3
 Payment Method: CASH
-Items: COOPERS PALE 750ML TALLIE EA, 10% Item Discount 4
+Items: COOPERS PALE 750ML TALLIE EA
 ----------------------------------------
 Order Timestamp: 2022-12-30 12:47:36
 Total Cost: 213.98000000000002
@@ -19631,7 +19631,7 @@ Items: XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK
 Order Timestamp: 2022-12-30 13:47:05
 Total Cost: 78.0
 Payment Method: EFTPOS
-Items: MOET CHANDON BRUT NV, 10% Item Discount 4, G BURGE PETIT ROSE BUBBLES, 10% Item Discount 4
+Items: MOET CHANDON BRUT NV, G BURGE PETIT ROSE BUBBLES
 ----------------------------------------
 Order Timestamp: 2022-12-30 13:49:47
 Total Cost: 35.99
@@ -19671,12 +19671,12 @@ Items: SUNTORY 196 LEMON 6% CAN 4PK, 5% BSHOP L.LEGEND
 Order Timestamp: 2022-12-30 14:15:46
 Total Cost: 52.18
 Payment Method: EFTPOS
-Items: BUNDY VAT/COLA CAN 4PK, 10% Item Discount 4, BUNDY VAT/COLA CAN 4PK, 10% Item Discount 4
+Items: BUNDY VAT/COLA CAN 4PK, BUNDY VAT/COLA CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-30 14:16:09
 Total Cost: -26.09
 Payment Method: EFTPOS
-Items: BUNDY VAT/COLA CAN 4PK  *REFUND*, 10% Item Discount 4
+Items: BUNDY VAT/COLA CAN 4PK  *REFUND*
 ----------------------------------------
 Order Timestamp: 2022-12-30 14:16:56
 Total Cost: None
@@ -19786,7 +19786,7 @@ Items:
 Order Timestamp: 2022-12-30 15:19:54
 Total Cost: 131.7
 Payment Method: EFTPOS
-Items: UDL CAN 4PK, 10% Item Discount 4, UDL CAN 4PK, 10% Item Discount 4, JACOBS CK C/HARVEST SAUVBLANC
+Items: UDL CAN 4PK, UDL CAN 4PK, JACOBS CK C/HARVEST SAUVBLANC
 ----------------------------------------
 Order Timestamp: 2022-12-30 15:20:21
 Total Cost: 71.99
@@ -19966,7 +19966,7 @@ Items: CAPT MORGAN COLA 10PK
 Order Timestamp: 2022-12-30 17:21:36
 Total Cost: 49.49
 Payment Method: EFTPOS
-Items: ASAHI SOUKAI 3.5 CTN, 10% Item Discount 4
+Items: ASAHI SOUKAI 3.5 CTN
 ----------------------------------------
 Order Timestamp: 2022-12-30 17:28:25
 Total Cost: 24.990000000000002
@@ -20051,12 +20051,12 @@ Items: NS1, NO SALE
 Order Timestamp: 2022-12-30 18:46:54
 Total Cost: 29.69
 Payment Method: EFTPOS
-Items: MANGO SMASH 8% STUB 4PK, 10% Item Discount 4, HARD ROCK LIME 500ML CAN SGL, 10% Item Discount 4, HARD ROCK PASSN 500ML CAN SGL, 10% Item Discount 4, VOID, HARD ROCK LIME 500ML CAN SGL
+Items: MANGO SMASH 8% STUB 4PK, HARD ROCK LIME 500ML CAN SGL, HARD ROCK PASSN 500ML CAN SGL, VOID, HARD ROCK LIME 500ML CAN SGL
 ----------------------------------------
 Order Timestamp: 2022-12-30 18:49:20
 Total Cost: 37.78
 Payment Method: EFTPOS
-Items: CAPT MORGAN TROPICAL CAN 4PK, 10% Item Discount 4, BREWDOG BROWN SNAKE CAN 4PK, 10% Item Discount 4
+Items: CAPT MORGAN TROPICAL CAN 4PK, BREWDOG BROWN SNAKE CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-30 18:50:19
 Total Cost: None
@@ -20371,7 +20371,7 @@ Items: GREAT NTHN ORIGINAL STUB CTN, JDANIEL 1LTR
 Order Timestamp: 2022-12-20 13:52:53
 Total Cost: 73.79
 Payment Method: EFTPOS
-Items: 1800 SILVER TEQUILA, 10% Item Discount 4
+Items: 1800 SILVER TEQUILA
 ----------------------------------------
 Order Timestamp: 2022-12-20 13:54:18
 Total Cost: 50.0
@@ -20431,7 +20431,7 @@ Items: XXXX BITTER STUB 6PK
 Order Timestamp: 2022-12-20 14:25:08
 Total Cost: 22.0
 Payment Method: CASH
-Items: FLYING DUTCH 1 LITRE TALLY, 10% Item Discount 4
+Items: FLYING DUTCH 1 LITRE TALLY
 ----------------------------------------
 Order Timestamp: 2022-12-20 14:26:05
 Total Cost: 15.0
@@ -20776,7 +20776,7 @@ Items: CARL MID STUB 6PK
 Order Timestamp: 2022-12-20 16:06:31
 Total Cost: None
 Payment Method: None
-Items: JACOBS CK CHARD P/N 750, PENFOLDS BIN 28 SHIRAZ, TAYLORS JARAMAN SHIRAZ, PENFOLDS BIN 28 SHIRAZ, BRANDS LAIRA BLOCKER CAB SAUV, HARDYS TINTARA CAB SAUV, 10% Item Discount 4
+Items: JACOBS CK CHARD P/N 750, PENFOLDS BIN 28 SHIRAZ, TAYLORS JARAMAN SHIRAZ, PENFOLDS BIN 28 SHIRAZ, BRANDS LAIRA BLOCKER CAB SAUV, HARDYS TINTARA CAB SAUV
 ----------------------------------------
 Order Timestamp: 2022-12-20 16:11:43
 Total Cost: 115.0
@@ -21136,7 +21136,7 @@ Items: J SQUIRE GINGER BEER CAN 6PK, 5% BSHOP L.LEGEND
 Order Timestamp: 2022-12-20 18:23:42
 Total Cost: None
 Payment Method: None
-Items: HARD ROCK LIME 500ML CAN SGL, 10% Item Discount 4, HARD ROCK LIME 500ML CAN SGL, 10% Item Discount 4, FLYING DUTCH 1 LITRE TALLY
+Items: HARD ROCK LIME 500ML CAN SGL, HARD ROCK LIME 500ML CAN SGL, FLYING DUTCH 1 LITRE TALLY
 ----------------------------------------
 Order Timestamp: 2022-12-20 18:48:10
 Total Cost: 56.97
@@ -21156,7 +21156,7 @@ Items: BROWN BROS PROSECCO 200ML 4PK
 Order Timestamp: 2022-12-20 18:56:44
 Total Cost: 50.0
 Payment Method: CASH
-Items: EUMUNDI GINGER BEER CAN 4PK, 10% Item Discount 4, COKE NO SUGAR 1.25L, 10% Item Discount 4
+Items: EUMUNDI GINGER BEER CAN 4PK, COKE NO SUGAR 1.25L
 ----------------------------------------
 Order Timestamp: 2022-12-20 19:05:13
 Total Cost: None
@@ -21321,7 +21321,7 @@ Items: MILLER CHILL STUB CTN
 Order Timestamp: 2022-12-14 13:52:21
 Total Cost: 46.0
 Payment Method: EFTPOS
-Items: YELLOW TAIL BUBBLES 750ML, YELLOW TAIL BUBBLES 750ML, YELLOW TAIL BUBBLES 750ML, BUNDY UP RUM 1000ML, JDANIEL SINGLE BARRELL, 10% Item Discount 4, XXXX SUMMER BRIGHT STUB CTN, 10% Item Discount 4
+Items: YELLOW TAIL BUBBLES 750ML, YELLOW TAIL BUBBLES 750ML, YELLOW TAIL BUBBLES 750ML, BUNDY UP RUM 1000ML, JDANIEL SINGLE BARRELL, XXXX SUMMER BRIGHT STUB CTN
 ----------------------------------------
 Order Timestamp: 2022-12-14 14:11:05
 Total Cost: 67.49
@@ -21331,7 +21331,7 @@ Items: XXXX GOLD CAN CTN 30PK, GREAT NTHN MID STUB 6PK
 Order Timestamp: 2022-12-14 14:12:15
 Total Cost: 25.650000000000002
 Payment Method: EFTPOS
-Items: VB 750ML 3 FOR, 10% Item Discount 4, VB 750ML EA, 10% Item Discount 4, VOID, 10% Item Discount 4, VOID, 10% Item Discount 4
+Items: VB 750ML 3 FOR, VB 750ML EA, VOID, VOID
 ----------------------------------------
 Order Timestamp: 2022-12-14 14:12:51
 Total Cost: 54.99
@@ -21551,7 +21551,7 @@ Items: COOPERS SPK TALLIES EA, COOPERS SPK TALLIES EA, VOID, COOPERS PALE 750ML 
 Order Timestamp: 2022-12-14 15:14:49
 Total Cost: 8.1
 Payment Method: EFTPOS
-Items: JDANIEL DBL JACK CAN EA, 10% Item Discount 4
+Items: JDANIEL DBL JACK CAN EA
 ----------------------------------------
 Order Timestamp: 2022-12-14 15:15:10
 Total Cost: 20.0
@@ -22226,7 +22226,7 @@ Items: GREAT NTHN MID CAN 6PK
 Order Timestamp: 2022-12-04 11:37:13
 Total Cost: 466.14
 Payment Method: AMEX
-Items: BACARDI RUM 700ML, 10% Item Discount 4, MOET CHANDON BRUT NV, 10% Item Discount 4
+Items: BACARDI RUM 700ML, MOET CHANDON BRUT NV
 ----------------------------------------
 Order Timestamp: 2022-12-04 11:44:48
 Total Cost: 34.0
@@ -22451,12 +22451,12 @@ Items: COOPERS MILD ALE CAN 6PK, WHITECLAW LIME SELTZ CAN 4PK
 Order Timestamp: 2022-12-04 15:40:53
 Total Cost: None
 Payment Method: None
-Items: NS1, NO SALE, VOID, TIGER LAGER STUB 6PK, VOID, 10% Item Discount 4
+Items: NS1, NO SALE, VOID, TIGER LAGER STUB 6PK, VOID
 ----------------------------------------
 Order Timestamp: 2022-12-04 15:41:24
 Total Cost: 17.09
 Payment Method: EFTPOS
-Items: TIGER LAGER STUB 6PK, 10% Item Discount 4
+Items: TIGER LAGER STUB 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-04 15:43:30
 Total Cost: 40.980000000000004
@@ -22486,7 +22486,7 @@ Items: VB STUB CTN
 Order Timestamp: 2022-12-04 15:49:30
 Total Cost: 25.19
 Payment Method: EFTPOS
-Items: FIREBALL APPLE 6.6% CAN 4PK, 10% Item Discount 4
+Items: FIREBALL APPLE 6.6% CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-04 15:51:20
 Total Cost: 20.0
@@ -22586,7 +22586,7 @@ Items: VB 750ML EA
 Order Timestamp: 2022-12-04 17:38:58
 Total Cost: 100.0
 Payment Method: CASH
-Items: FURPHY ALE 375ML STUB CTN, 10% Item Discount 4, EUMUNDI GINGER BEER CAN 4PK, 10% Item Discount 4
+Items: FURPHY ALE 375ML STUB CTN, EUMUNDI GINGER BEER CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-04 17:44:07
 Total Cost: 10.0
@@ -22676,7 +22676,7 @@ Items: GREY GOOSE VODKA 700ML, WOODFORD RESERVE GIFT PACK
 Order Timestamp: 2022-12-15 10:30:28
 Total Cost: 147.78
 Payment Method: EFTPOS
-Items: JAMESON IRISH WHISKEY 1000ML, 10% Item Discount 4, GIESEN SAUV BLANC, 10% Item Discount 4, GIESEN SAUV BLANC, 10% Item Discount 4, BUNDY GINGER 4% CAN 6PK, BUNDY GINGER 4% CAN 6PK
+Items: JAMESON IRISH WHISKEY 1000ML, GIESEN SAUV BLANC, GIESEN SAUV BLANC, BUNDY GINGER 4% CAN 6PK, BUNDY GINGER 4% CAN 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-15 10:31:39
 Total Cost: 41.980000000000004
@@ -22841,7 +22841,7 @@ Items: BUNDY COLA 4.6% CAN EA, BROOKVALE GINGER 330ML CAN SGL
 Order Timestamp: 2022-12-15 13:28:23
 Total Cost: 17.990000000000002
 Payment Method: EFTPOS
-Items: HEINEKEN STUB 6PK, 10% Item Discount 4
+Items: HEINEKEN STUB 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-15 13:29:41
 Total Cost: 21.990000000000002
@@ -22876,7 +22876,7 @@ Items: HAHN SUPER DRY 700ML EA
 Order Timestamp: 2022-12-15 14:07:39
 Total Cost: 20.400000000000002
 Payment Method: EFTPOS
-Items: FLYING DUTCH 1 LITRE TALLY, UDL CAN EA, 10% Item Discount 4
+Items: FLYING DUTCH 1 LITRE TALLY, UDL CAN EA
 ----------------------------------------
 Order Timestamp: 2022-12-15 14:08:23
 Total Cost: 9.5
@@ -23051,7 +23051,7 @@ Items: MILLER CHILL BLOOD OR STUB CTN, 5% BSHOP L.LEGEND
 Order Timestamp: 2022-12-15 15:21:19
 Total Cost: 478.0
 Payment Method: EFTPOS
-Items: COOPERS MILD ALE CAN CTN, MOET CHANDON BRUT NV, MOET CHANDON BRUT NV, MOET CHANDON BRUT NV, MOET CHANDON BRUT NV, MOET CHANDON BRUT NV, 10% Item Discount 4
+Items: COOPERS MILD ALE CAN CTN, MOET CHANDON BRUT NV, MOET CHANDON BRUT NV, MOET CHANDON BRUT NV, MOET CHANDON BRUT NV, MOET CHANDON BRUT NV
 ----------------------------------------
 Order Timestamp: 2022-12-15 15:27:59
 Total Cost: 18.990000000000002
@@ -23291,7 +23291,7 @@ Items: WSTOCK COLA 4.8% 375ML CAN 6PK
 Order Timestamp: 2022-12-15 16:44:49
 Total Cost: 100.0
 Payment Method: CASH
-Items: SUNTORY 196 GRAPE 6% CAN 4PK, 10% Item Discount 4
+Items: SUNTORY 196 GRAPE 6% CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-15 16:55:41
 Total Cost: 64.99
@@ -23396,7 +23396,7 @@ Items: ASAHI SOUKAI 3.5 CTN
 Order Timestamp: 2022-12-15 17:24:23
 Total Cost: 450.0
 Payment Method: CASH
-Items: PETER LEHMANN BOND SHIRAZ, 10% Item Discount 4, WIRRA WIRRA CHURCH BLOCK, 10% Item Discount 4, GREAT NTHN ORIGINAL CAN 30CTN, 10% Item Discount 4, CCLUB DRY CUBE 24 CAN, 10% Item Discount 4, WSTOCK COLA 4.8% 375ML CAN CTN, 10% Item Discount 4
+Items: PETER LEHMANN BOND SHIRAZ, WIRRA WIRRA CHURCH BLOCK, GREAT NTHN ORIGINAL CAN 30CTN, CCLUB DRY CUBE 24 CAN, WSTOCK COLA 4.8% 375ML CAN CTN
 ----------------------------------------
 Order Timestamp: 2022-12-15 17:25:10
 Total Cost: 80.0
@@ -23646,12 +23646,12 @@ Items: GREAT NTHN MID 3 PACK
 Order Timestamp: 2022-12-05 13:21:14
 Total Cost: 26.09
 Payment Method: EFTPOS
-Items: XXXX GOLD CAN 6PK, 10% Item Discount 4
+Items: XXXX GOLD CAN 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-05 14:12:32
 Total Cost: 16.2
 Payment Method: EFTPOS
-Items: KRAKEN RUM COLA CAN SGL, 10% Item Discount 4, KRAKEN RUM COLA CAN SGL, 10% Item Discount 4
+Items: KRAKEN RUM COLA CAN SGL, KRAKEN RUM COLA CAN SGL
 ----------------------------------------
 Order Timestamp: 2022-12-05 14:12:58
 Total Cost: None
@@ -23906,7 +23906,7 @@ Items: XXXX GOLD CAN 6PK
 Order Timestamp: 2022-12-05 15:50:28
 Total Cost: 20.69
 Payment Method: EFTPOS
-Items: BILLSONS VODKA CAN 4PK, 10% Item Discount 4
+Items: BILLSONS VODKA CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-05 15:51:10
 Total Cost: 7.6000000000000005
@@ -23941,7 +23941,7 @@ Items: BROOKVALE GINGER BEER 500ML EA
 Order Timestamp: 2022-12-05 15:56:10
 Total Cost: 345.0
 Payment Method: EFTPOS
-Items: FIREBALL APPLE 6.6% CAN 4PK, SAILOR JERRY RUM 700ML, 10% Item Discount 4, WTURKEY 101 700ML, 10% Item Discount 4, DIMPLE SCOTCH 15YO, VOID, FIREBALL APPLE 6.6% CAN CTN, VOID, 5% BSHOP L.LEGEND, VOID, SAILOR JERRY RUM 700ML
+Items: FIREBALL APPLE 6.6% CAN 4PK, SAILOR JERRY RUM 700ML, WTURKEY 101 700ML, DIMPLE SCOTCH 15YO, VOID, FIREBALL APPLE 6.6% CAN CTN, VOID, 5% BSHOP L.LEGEND, VOID, SAILOR JERRY RUM 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-05 16:12:07
 Total Cost: 42.74
@@ -24276,7 +24276,7 @@ Items: SCHULTES ORIGINAL JERKY 50GM, PEPPERJACK ROSE
 Order Timestamp: 2022-12-05 18:24:23
 Total Cost: 53.15
 Payment Method: EFTPOS
-Items: XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK, RED BULL SUGAR FREE CAN SGL, 10% Item Discount 4
+Items: XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK, XXXX GOLD CAN 6PK, RED BULL SUGAR FREE CAN SGL
 ----------------------------------------
 Order Timestamp: 2022-12-05 18:25:48
 Total Cost: None
@@ -24511,7 +24511,7 @@ Items: BROWN BROS CROUCHEN RIESLING, BROWN BROS CROUCHEN RIESLING, VB 750ML EA, 
 Order Timestamp: 2022-12-12 14:06:21
 Total Cost: 18.900000000000002
 Payment Method: EFTPOS
-Items: VB 750ML 3 FOR, 10% Item Discount 4
+Items: VB 750ML 3 FOR
 ----------------------------------------
 Order Timestamp: 2022-12-12 14:06:59
 Total Cost: None
@@ -25181,7 +25181,7 @@ Items: GREAT NTHN ORIGINAL CAN 30CTN
 Order Timestamp: 2022-12-23 11:01:23
 Total Cost: 81.99
 Payment Method: EFTPOS
-Items: ARIANE VODKA 700ML, ARIANE VODKA 700ML, BUNDY LIQUEUR 700ML, 10% Item Discount 4, GREAT NTHN ORIGINAL CAN 30CTN
+Items: ARIANE VODKA 700ML, ARIANE VODKA 700ML, BUNDY LIQUEUR 700ML, GREAT NTHN ORIGINAL CAN 30CTN
 ----------------------------------------
 Order Timestamp: 2022-12-23 11:34:25
 Total Cost: 56.0
@@ -25676,7 +25676,7 @@ Items: GOAT LAGER BEER CAN CTN
 Order Timestamp: 2022-12-23 14:29:32
 Total Cost: 110.0
 Payment Method: CASH
-Items: COOPERS SPK TALLIES EA, 10% Item Discount 4, ARIANE VODKA 700ML
+Items: COOPERS SPK TALLIES EA, ARIANE VODKA 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-23 14:30:10
 Total Cost: 34.0
@@ -25696,7 +25696,7 @@ Items: BALTER CAPT SENSIBLE CAN 4PK
 Order Timestamp: 2022-12-23 14:32:40
 Total Cost: 8.55
 Payment Method: EFTPOS
-Items: WSTOCK/COLA 8% CAN EA, 10% Item Discount 4
+Items: WSTOCK/COLA 8% CAN EA
 ----------------------------------------
 Order Timestamp: 2022-12-23 14:32:59
 Total Cost: 20.0
@@ -25846,7 +25846,7 @@ Items: CCLUB DRY CAN 6PK
 Order Timestamp: 2022-12-23 15:25:36
 Total Cost: 90.49
 Payment Method: EFTPOS
-Items: BIRD IN HAND SPARKLING PINOT N, BIRD IN HAND SPARKLING PINOT N, CCLUB COLA CAN 10PK, 10% Item Discount 4
+Items: BIRD IN HAND SPARKLING PINOT N, BIRD IN HAND SPARKLING PINOT N, CCLUB COLA CAN 10PK
 ----------------------------------------
 Order Timestamp: 2022-12-23 15:45:11
 Total Cost: None
@@ -26001,12 +26001,12 @@ Items: KAHLUA 700ML, BALTER XPA CAN CTN
 Order Timestamp: 2022-12-23 16:23:36
 Total Cost: 23.38
 Payment Method: EFTPOS
-Items: MAISON TRIPLE SEC 750ML, 10% Item Discount 4, MAISON BLUE CURACAO 750ML, 10% Item Discount 4
+Items: MAISON TRIPLE SEC 750ML, MAISON BLUE CURACAO 750ML
 ----------------------------------------
 Order Timestamp: 2022-12-23 16:24:13
 Total Cost: 139.98
 Payment Method: EFTPOS
-Items: MUMM CHAMPAGNE 750ML, DISARONNO AMARETTO 700ML, 10% Item Discount 4, APEROL 700ML, 10% Item Discount 4
+Items: MUMM CHAMPAGNE 750ML, DISARONNO AMARETTO 700ML, APEROL 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-23 16:24:36
 Total Cost: 54.99
@@ -26021,7 +26021,7 @@ Items: CORONA MEX STUB CTN
 Order Timestamp: 2022-12-23 16:25:27
 Total Cost: 117.56
 Payment Method: AMEX
-Items: FIREBALL XMAS ORNAMENT 6PK, 10% Item Discount 4, JANSZ NON VINTAGE ROSE, 10% Item Discount 4, JANSZ CUVEE NV, 10% Item Discount 4, FIREBALL CINNAMON WHISKY 1LTR, 10% Item Discount 4, FIREBALL APPLE 6.6% CAN 4PK, 5% BSHOP L.LEGEND, VOID, LINDEMANS GENTLEMANS CO SHIRAZ
+Items: FIREBALL XMAS ORNAMENT 6PK, JANSZ NON VINTAGE ROSE, JANSZ CUVEE NV, FIREBALL CINNAMON WHISKY 1LTR, FIREBALL APPLE 6.6% CAN 4PK, 5% BSHOP L.LEGEND, VOID, LINDEMANS GENTLEMANS CO SHIRAZ
 ----------------------------------------
 Order Timestamp: 2022-12-23 16:38:59
 Total Cost: 63.45
@@ -26266,7 +26266,7 @@ Items:
 Order Timestamp: 2022-12-23 19:34:42
 Total Cost: 22.95
 Payment Method: CASH
-Items: JBEAM BLK DBL SRV 4PK, 10% Item Discount 4
+Items: JBEAM BLK DBL SRV 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-23 18:43:15
 Total Cost: 68.99
@@ -26316,7 +26316,7 @@ Items: *** End of Shift ***
 Order Timestamp: 2022-12-23 19:14:54
 Total Cost: 80.49
 Payment Method: EFTPOS
-Items: COCA COLA 1.25L, MT GAY BLACK BARREL 700ML, 10% Item Discount 4, CC'S TASTY CHEESE 175G, SCHWEPPES LEMONADE 1.1L, 10% Item Discount 4
+Items: COCA COLA 1.25L, MT GAY BLACK BARREL 700ML, CC'S TASTY CHEESE 175G, SCHWEPPES LEMONADE 1.1L
 ----------------------------------------
 Order Timestamp: 2022-12-23 19:15:20
 Total Cost: None
@@ -26601,7 +26601,7 @@ Items: BILLSONS VODKA CAN 4PK
 Order Timestamp: 2022-12-22 13:05:32
 Total Cost: 28.990000000000002
 Payment Method: EFTPOS
-Items: ARIANE VODKA 700ML, JOSE CUERVO GOLD 700ML, 10% Item Discount 4, CAPTAIN MORGAN BLK RUM 700ML, 10% Item Discount 4
+Items: ARIANE VODKA 700ML, JOSE CUERVO GOLD 700ML, CAPTAIN MORGAN BLK RUM 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-22 13:18:02
 Total Cost: 29.48
@@ -26671,7 +26671,7 @@ Items: CAPTAIN MORGAN SPICED RUM 1LT
 Order Timestamp: 2022-12-22 14:03:31
 Total Cost: 42.29
 Payment Method: EFTPOS
-Items: JDANIEL DBL JACK CAN EA, 10% Item Discount 4, KRAKEN RUM COLA CAN SGL, 10% Item Discount 4, KRAKEN RUM COLA CAN SGL, 10% Item Discount 4, VB CAN 6PK, 10% Item Discount 4
+Items: JDANIEL DBL JACK CAN EA, KRAKEN RUM COLA CAN SGL, KRAKEN RUM COLA CAN SGL, VB CAN 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-22 14:04:05
 Total Cost: 65.0
@@ -26956,7 +26956,7 @@ Items: BACARDI PINA COLADA CAN 4PK, MANGO SMASH 8% STUB 4PK, PARAISO LYCHEE LIQU
 Order Timestamp: 2022-12-22 15:37:04
 Total Cost: None
 Payment Method: None
-Items: BYRON BAY LAGER STUB CTN, BYRON BAY LAGER STUB CTN, JACOBS CK CHARD P/N 750, JACOBS CK CHARD P/N 750, JANSZ CUVEE NV, JANSZ CUVEE NV, JANSZ CUVEE NV MAGNUM, TAYLORS EST CHARD, 10% Item Discount 4, TAYLORS P/L UW CHARD, 10% Item Discount 4, GOOD TIDES MIXED 10PK, 10% Item Discount 4, GOOD TIDES MIXED 10PK, 10% Item Discount 4, GORDONS GIN 1000ML, VODKA O 700ML, 10% Item Discount 4, ARIANE VODKA 700ML, BUNDY SELECT VAT 700ML, 10% Item Discount 4
+Items: BYRON BAY LAGER STUB CTN, BYRON BAY LAGER STUB CTN, JACOBS CK CHARD P/N 750, JACOBS CK CHARD P/N 750, JANSZ CUVEE NV, JANSZ CUVEE NV, JANSZ CUVEE NV MAGNUM, TAYLORS EST CHARD, TAYLORS P/L UW CHARD, GOOD TIDES MIXED 10PK, GOOD TIDES MIXED 10PK, GORDONS GIN 1000ML, VODKA O 700ML, ARIANE VODKA 700ML, BUNDY SELECT VAT 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-22 15:52:14
 Total Cost: 54.980000000000004
@@ -26986,7 +26986,7 @@ Items: BYRON BAY LAGER STUB CTN
 Order Timestamp: 2022-12-22 16:03:42
 Total Cost: 8.55
 Payment Method: EFTPOS
-Items: WSTOCK/COLA 8% CAN EA, 10% Item Discount 4
+Items: WSTOCK/COLA 8% CAN EA
 ----------------------------------------
 Order Timestamp: 2022-12-22 16:12:08
 Total Cost: None
@@ -27021,12 +27021,12 @@ Items: TOOHEYS NEW CAN CTN 30PK, 5% BSHOP L.LEGEND, TOOHEYS NEW CAN CTN 30PK, TO
 Order Timestamp: 2022-12-22 16:16:13
 Total Cost: 300.0
 Payment Method: CASH
-Items: CARL DRY CAN 30PK CUBE, 10% Item Discount 4, CARL DRY CAN 30PK CUBE, 10% Item Discount 4, GOOD TIDES SELTZ RASPB CAN CTN, 10% Item Discount 4, ARIANE VODKA 700ML
+Items: CARL DRY CAN 30PK CUBE, CARL DRY CAN 30PK CUBE, GOOD TIDES SELTZ RASPB CAN CTN, ARIANE VODKA 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-22 16:16:53
 Total Cost: 16.19
 Payment Method: EFTPOS
-Items: BENTSPOKE EASY ALE CAN 4PK, 10% Item Discount 4
+Items: BENTSPOKE EASY ALE CAN 4PK
 ----------------------------------------
 Order Timestamp: 2022-12-22 16:17:02
 Total Cost: 62.0
@@ -27361,7 +27361,7 @@ Items: SMIRN BLK/GUARANA 4PK, 5% BSHOP L.LEGEND, SMIRN BLK/GUARANA 4PK, 5% BSHOP
 Order Timestamp: 2022-12-22 18:34:47
 Total Cost: 135.88
 Payment Method: EFTPOS
-Items: ROKU GIN 700ML, 10% Item Discount 4, INK PURPLE GIN 700ML, 10% Item Discount 4
+Items: ROKU GIN 700ML, INK PURPLE GIN 700ML
 ----------------------------------------
 Order Timestamp: 2022-12-22 18:35:08
 Total Cost: 50.0
@@ -27446,7 +27446,7 @@ Items: BUNDY VAT/COLA CAN 4PK
 Order Timestamp: 2022-12-13 11:44:09
 Total Cost: 549.95
 Payment Method: AMEX
-Items: GORDONS PINK AND SODA STUB CTN, 10% Item Discount 4, CARLSBERG 500ML CAN CTN, 10% Item Discount 4, BROOKVALE VOD LSQ 6% CAN CTN, 10% Item Discount 4, GREAT NTHN ORIGINAL CAN 30CTN, 10% Item Discount 4, JDANIEL DBL JACK NS CAN CTN, 10% Item Discount 4, XXXX GOLD CAN 6PK
+Items: GORDONS PINK AND SODA STUB CTN, CARLSBERG 500ML CAN CTN, BROOKVALE VOD LSQ 6% CAN CTN, GREAT NTHN ORIGINAL CAN 30CTN, JDANIEL DBL JACK NS CAN CTN, XXXX GOLD CAN 6PK
 ----------------------------------------
 Order Timestamp: 2022-12-13 11:45:56
 Total Cost: 21.0
@@ -27471,7 +27471,7 @@ Items: JBEAM COLA 500ML BTL EA
 Order Timestamp: 2022-12-13 11:58:45
 Total Cost: 25.87
 Payment Method: EFTPOS
-Items: VB 750ML EA, 7% Item Discount 4, VB 750ML 3 FOR, 10% Item Discount 4
+Items: VB 750ML EA, VB 750ML 3 FOR
 ----------------------------------------
 Order Timestamp: 2022-12-13 11:59:24
 Total Cost: 54.0
@@ -27581,7 +27581,7 @@ Items: ASAHI SUPER DRY CTN
 Order Timestamp: 2022-12-13 13:40:07
 Total Cost: 60.29
 Payment Method: EFTPOS
-Items: GREAT NTHN ORIGINAL CAN 30CTN, 10% Item Discount 4
+Items: GREAT NTHN ORIGINAL CAN 30CTN
 ----------------------------------------
 Order Timestamp: 2022-12-13 13:40:20
 Total Cost: 54.0
@@ -27711,7 +27711,7 @@ Items: XXXX GOLD CAN 6PK
 Order Timestamp: 2022-12-13 15:08:14
 Total Cost: 38.34
 Payment Method: EFTPOS
-Items: BANROCK STN 1000 MOSCATO, 10% Item Discount 4, MERCURY HARD CIDER 10PK, 10% Item Discount 4
+Items: BANROCK STN 1000 MOSCATO, MERCURY HARD CIDER 10PK
 ----------------------------------------
 Order Timestamp: 2022-12-13 15:08:48
 Total Cost: 10.0
@@ -27996,7 +27996,7 @@ Items: BUNDY OP/COLA 6.0% CAN EA
 Order Timestamp: 2022-12-13 16:40:22
 Total Cost: 8.0
 Payment Method: CASH
-Items: GREAT NTHN ORIGINAL 700ML EA, 10% Item Discount 4
+Items: GREAT NTHN ORIGINAL 700ML EA
 ----------------------------------------
 Order Timestamp: 2022-12-13 16:41:44
 Total Cost: 18.5
@@ -28221,7 +28221,7 @@ Items: GREAT NTHN ORIGINAL STUB CTN
 Order Timestamp: 2022-12-13 18:18:45
 Total Cost: 52.19
 Payment Method: EFTPOS
-Items: PURE BLONDE BTL CTN, 10% Item Discount 4
+Items: PURE BLONDE BTL CTN
 ----------------------------------------
 Order Timestamp: 2022-12-13 18:21:15
 Total Cost: None
@@ -28241,7 +28241,7 @@ Items: MALFY GIN TONICA LEMON BTL SGL, DIVAS VODKAT RASPBERRY 700ML, LUCKY DIP M
 Order Timestamp: 2022-12-13 18:23:24
 Total Cost: 53.09
 Payment Method: EFTPOS
-Items: BUNDY BLACK RUM 700, 10% Item Discount 4
+Items: BUNDY BLACK RUM 700
 ----------------------------------------
 Order Timestamp: 2022-12-13 18:24:04
 Total Cost: None
