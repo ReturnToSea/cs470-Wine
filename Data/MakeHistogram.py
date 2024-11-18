@@ -1,7 +1,47 @@
-from ExtractData import find_orders_by_item parse_orders write_to_file find_orders_by_item print_specific_items
+from ExtractData import find_orders_by_item, parse_orders, write_to_file, find_orders_by_item, print_specific_items
+import matplotlib.pyplot as plt
+from collections import Counter
+import re
+from datetime import datetime
 
 
-#TODO: create a histogram using function from Extract Data. We want to find the frequency of an item based on time of day.
+#TODO: create a histogram using function(s) from ExtractData.py We want to find the frequency of an item based on time of day.
+
+
+def create_item_histogram(orders, item_name):
+    # Extract hours for orders containing the specified item
+    hours = []
+    for order in orders:
+        if any(item_name.lower() in item.lower() for item in order['items']):
+            # Parse the timestamp and extract the hour
+            order_time = datetime.strptime(order['order_timestamp'], "%Y-%m-%d %H:%M:%S")
+            hours.append(order_time.hour)
+    
+    # Count the occurrences of each hour
+    hour_counts = Counter(hours)
+    
+    # Create lists of hours and their frequencies
+    sorted_hours = sorted(hour_counts.keys())
+    frequencies = [hour_counts[hour] for hour in sorted_hours]
+    
+    # Plot the histogram
+    plt.figure(figsize=(10, 6))
+    plt.bar(sorted_hours, frequencies, width=0.8, color='skyblue', edgecolor='black')
+    plt.xticks(range(0, 24))  # Set x-axis to show all hours
+    plt.xlabel("Hour of the Day")
+    plt.ylabel("Frequency")
+    plt.title(f"Frequency of '{item_name}' Throughout the Day")
+    plt.grid(axis='y', linestyle='--', alpha=0.7)
+    plt.tight_layout()
+    plt.show()
+
+file_path = 'CsvReaderOutput.txt'
+orders = parse_orders(file_path)
+
+# Example usage
+specific_item = "GREAT NTHN ORIGINAL STUB CTN"
+create_item_histogram(orders, specific_item)
+
 
 # # The code below handles makes a histogram based on price.
 # import matplotlib.pyplot as plt
