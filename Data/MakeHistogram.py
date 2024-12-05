@@ -10,6 +10,28 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 from collections import Counter
 
+# Function grabs wines based off of keyword.
+def get_items_by_keyword(file_path, keyword):
+    orders = parse_orders(file_path)
+    matching_items = set()
+    for order in orders:
+        for item in order["items"]:
+            if keyword.lower() in item.lower():
+                matching_items.add(item)
+    return sorted(matching_items)
+
+# multi histogram code maybe
+def count_items_frequency_by_hour(orders, items):
+    hourly_item_counter = Counter()
+    for item_name in items:
+        matching_orders = find_orders_by_item(orders, item_name)
+        for order in matching_orders:
+            timestamp = datetime.strptime(order["order_timestamp"], "%Y-%m-%d %H:%M:%S")
+            hour = timestamp.hour
+            hourly_item_counter[hour] += 1
+    return hourly_item_counter
+
+
 # Function to load and extract wine names
 def get_wine_names(file_path):
     orders = parse_orders(file_path)
@@ -21,17 +43,21 @@ def get_wine_names(file_path):
     return sorted(wine_names)
 
 # Function to count item purchases by hour (24-hour period) for a specific date
-def count_item_frequency_by_hour_and_date(orders, item_name, date):
-    hourly_item_counter = Counter()
-    matching_orders = find_orders_by_item(orders, item_name)
-    
-    for order in matching_orders:
-        timestamp = datetime.strptime(order["order_timestamp"], "%Y-%m-%d %H:%M:%S")
-        if timestamp.date() == date:
+def count_item_frequencies_by_hour(orders, matching_items):
+    """
+    Count the hourly frequency for multiple distinct items.
+    Returns a dictionary with item names as keys and hourly counters as values.
+    """
+    item_hourly_counts = {}
+    for item in matching_items:
+        hourly_item_counter = Counter()
+        matching_orders = find_orders_by_item(orders, item)
+        for order in matching_orders:
+            timestamp = datetime.strptime(order["order_timestamp"], "%Y-%m-%d %H:%M:%S")
             hour = timestamp.hour
             hourly_item_counter[hour] += 1
-    
-    return hourly_item_counter
+        item_hourly_counts[item] = hourly_item_counter
+    return item_hourly_counts
 
 # Function to count item purchases by hour (all-time 24-hour distribution)
 def count_item_frequency_by_hour(orders, item_name):
@@ -74,6 +100,31 @@ def plot_item_frequency_by_hour(hourly_item_counter, item_name, date=None):
     plt.tight_layout()
     plt.show()
 
+def plot_item_frequencies_by_hour_grouped(item_hourly_counts, keyword):
+    """
+    Plot a histogram with separate bars for each item in the group.
+    """
+    hours = list(range(24))
+    plt.figure(figsize=(12, 6))
+
+    for item, hourly_counter in item_hourly_counts.items():
+        item_counts = [hourly_counter.get(hour, 0) for hour in hours]
+        plt.bar(
+            hours,
+            item_counts,
+            alpha=0.6,  # Transparency to handle overlaps
+            label=item
+        )
+
+    plt.title(f"Frequency of Items Matching '{keyword}' by Hour of Day")
+    plt.xlabel("Hour of Day")
+    plt.ylabel("Frequency of Items Ordered")
+    plt.xticks(hours)
+    plt.legend(loc='upper right')
+    plt.tight_layout()
+    plt.show()
+
+
 # Function to plot the histogram based on daily data
 def plot_item_frequency_by_day(daily_item_counter, item_name):
     days = list(daily_item_counter.keys())
@@ -88,32 +139,96 @@ def plot_item_frequency_by_day(daily_item_counter, item_name):
     plt.tight_layout()
     plt.show()
 
+def count_grouped_item_frequencies_by_day(orders, matching_items):
+    """
+    Count the daily frequency for multiple distinct items.
+    Returns a dictionary with item names as keys and daily counters as values.
+    """
+    grouped_daily_counts = {}
+    for item in matching_items:
+        daily_item_counter = Counter()
+        matching_orders = find_orders_by_item(orders, item)
+        for order in matching_orders:
+            timestamp = datetime.strptime(order["order_timestamp"], "%Y-%m-%d %H:%M:%S")
+            day = timestamp.date()
+            daily_item_counter[day] += 1
+        grouped_daily_counts[item] = daily_item_counter
+    return grouped_daily_counts
+
+
+def plot_grouped_item_frequencies_by_day(grouped_daily_counts, keyword):
+    """
+    Plot a grouped bar chart showing the daily frequency of items.
+    """
+    all_days = sorted(set(day for counter in grouped_daily_counts.values() for day in counter.keys()))
+    x = range(len(all_days))  # Positions for days on the x-axis
+
+    plt.figure(figsize=(12, 6))
+
+    bar_width = 0.2  # Width of each bar
+    offset = 0       # Initial offset for bar positions
+
+    for item, daily_counter in grouped_daily_counts.items():
+        item_counts = [daily_counter.get(day, 0) for day in all_days]
+        plt.bar(
+            [pos + offset for pos in x],  # Offset the bars for this item
+            item_counts,
+            width=bar_width,
+            label=item,
+            alpha=0.7  # Slight transparency to make overlaps more visible
+        )
+        offset += bar_width  # Shift the next group of bars
+
+    plt.title(f"Frequency of Items Matching '{keyword}' by Day")
+    plt.xlabel("Day")
+    plt.ylabel("Frequency of Items Ordered")
+    plt.xticks([pos + bar_width * (len(grouped_daily_counts) / 2 - 0.5) for pos in x],
+               [day.strftime("%Y-%m-%d") for day in all_days], rotation=45)
+    plt.legend(loc='upper right')
+    plt.tight_layout()
+    plt.show()
+
+
 # Function to generate the graph based on user selections
 def generate_graph():
-    selected_wine = wine_combobox.get()
+    keyword = wine_combobox.get()
     period = period_var.get()
     date_str = date_entry.get().strip() if period == "Specific Date" else None
 
-    if not selected_wine:
-        print("Debug: No wine selected.")
+    if not keyword:
+        print("Debug: No keyword entered.")
         return
 
     file_path = 'CsvReaderOutput.txt'
     orders = parse_orders(file_path)
+    matching_items = get_items_by_keyword(file_path, keyword)
+
+    if not matching_items:
+        print(f"Debug: No items found for keyword '{keyword}'.")
+        return
 
     if period == "24-hour period":
-        hourly_item_counter = count_item_frequency_by_hour(orders, selected_wine)
-        plot_item_frequency_by_hour(hourly_item_counter, selected_wine)
+        # Handle 24-hour distribution for grouped items
+        item_hourly_counts = count_item_frequencies_by_hour(orders, matching_items)
+        plot_item_frequencies_by_hour_grouped(item_hourly_counts, keyword)
     elif period == "All days period":
-        daily_item_counter = count_item_frequency_by_day(orders, selected_wine)
-        plot_item_frequency_by_day(daily_item_counter, selected_wine)
+        # Handle all-day distribution for grouped items
+        grouped_daily_counts = count_grouped_item_frequencies_by_day(orders, matching_items)
+        plot_grouped_item_frequencies_by_day(grouped_daily_counts, keyword)
     elif period == "Specific Date":
         try:
+            # Handle specific date distribution for grouped items
             selected_date = datetime.strptime(date_str, "%m/%d/%Y").date()
-            hourly_item_counter = count_item_frequency_by_hour_and_date(orders, selected_wine, selected_date)
-            plot_item_frequency_by_hour(hourly_item_counter, selected_wine, date_str)
+            item_hourly_counts = {}
+            for item in matching_items:
+                hourly_counter = count_item_frequency_by_hour_and_date(orders, item, selected_date)
+                item_hourly_counts[item] = hourly_counter
+            plot_item_frequencies_by_hour_grouped(item_hourly_counts, keyword)
         except ValueError:
             print("Debug: Invalid date format. Please use MM/DD/YYYY.")
+
+
+
 
 # Set up the main Tkinter window
 root = tk.Tk()
@@ -128,6 +243,7 @@ period_var = tk.StringVar(value="24-hour period")
 # Create and pack the dropdown for wine selection
 wine_combobox = ttk.Combobox(root, values=wine_names, state="normal", width=40)
 wine_combobox.pack(pady=10)
+wine_combobox.insert(0, "Enter keyword (e.g., LITTLE GIANT)")
 
 # Create and pack the radio buttons for selecting the time period
 period_24hr = ttk.Radiobutton(root, text="24-hour period", variable=period_var, value="24-hour period")
@@ -163,187 +279,3 @@ generate_button.pack(pady=10)
 
 # Start the Tkinter event loop
 root.mainloop()
-
-
-
-
-
-# # The code below handles makes a histogram based on price.
-# import matplotlib.pyplot as plt
-# import re
-# from datetime import datetime
-
-# # Initialize lists to store parsed data
-# timestamps = []
-# prices = []
-# items_list = []
-
-# # Read the data from the file
-# with open("Orders.txt", "r") as file:
-#     # Read each line and parse blocks
-#     content = file.read().split("----------------------------------------\n")
-#     for block in content:
-#         if block.strip():  # Only process non-empty blocks
-#             # Use regex to find each field
-#             timestamp_match = re.search(r"Order Timestamp: (.+)", block)
-#             price_match = re.search(r"Total Cost: ([\d.]+)", block)
-#             items_match = re.search(r"Items: (.+)", block)
-            
-#             # Parse and append each field if found
-#             if timestamp_match and price_match:
-#                 try:
-#                     timestamp = datetime.strptime(timestamp_match.group(1), "%Y-%m-%d %H:%M:%S")
-#                     price = float(price_match.group(1))  # Convert price to float
-#                     items = items_match.group(1) if items_match else ""
-                    
-#                     timestamps.append(timestamp)
-#                     prices.append(price)
-#                     items_list.append(items)
-#                 except ValueError:
-#                     # Skip entries that cannot be parsed properly
-#                     continue
-
-# # Plot histogram for prices
-# plt.figure(figsize=(10, 6))
-# plt.hist(prices, bins=10, color='skyblue', edgecolor='black')
-# plt.title("Distribution of Order Prices")
-# plt.xlabel("Price")
-# plt.ylabel("Frequency")
-# plt.show()
-
-# # The code below creates a histogram based on the item's frequency.
-# import matplotlib.pyplot as plt
-# import re
-# from collections import Counter
-
-# # Initialize a Counter to store item frequencies
-# item_counter = Counter()
-
-# # Read the data from the file
-# with open("Orders.txt", "r") as file:
-#     # Read each line and parse blocks
-#     content = file.read().split("----------------------------------------\n")
-#     for block in content:
-#         if block.strip():  # Only process non-empty blocks
-#             # Use regex to find the items
-#             items_match = re.search(r"Items: (.+)", block)
-            
-#             if items_match:
-#                 items = items_match.group(1)
-#                 # Split items by comma and strip whitespace
-#                 item_list = [item.strip() for item in items.split(",")]
-#                 # Update the counter with these items
-#                 item_counter.update(item_list)
-
-# # Prepare data for plotting
-# items, frequencies = zip(*item_counter.most_common(10))  # Get the top 10 items by frequency
-
-# # Plot histogram for item frequencies
-# plt.figure(figsize=(12, 6))
-# plt.bar(items, frequencies, color='skyblue', edgecolor='black')
-# plt.title("Top 10 Ordered Items by Frequency")
-# plt.xlabel("Item Name")
-# plt.ylabel("Frequency")
-# plt.xticks(rotation=45, ha='right')
-# plt.tight_layout()
-# plt.show()
-
-# # Time based histogram
-# import matplotlib.pyplot as plt
-# import re
-# from datetime import datetime
-# from collections import Counter
-
-# # Initialize a Counter for counting items per hour
-# hourly_item_counter = Counter()
-
-# # Read the data from the file
-# with open("Orders.txt", "r") as file:
-#     # Read each line and parse blocks
-#     content = file.read().split("----------------------------------------\n")
-#     for block in content:
-#         if block.strip():  # Only process non-empty blocks
-#             # Use regex to find timestamp and items
-#             timestamp_match = re.search(r"Order Timestamp: (.+)", block)
-#             items_match = re.search(r"Items: (.+)", block)
-            
-#             if timestamp_match and items_match:
-#                 # Parse timestamp and extract hour
-#                 timestamp = datetime.strptime(timestamp_match.group(1), "%Y-%m-%d %H:%M:%S")
-#                 hour = timestamp.hour
-                
-#                 # Count items in the order
-#                 items = items_match.group(1)
-#                 item_list = [item.strip() for item in items.split(",")]
-#                 num_items = len(item_list)
-                
-#                 # Update hourly count
-#                 hourly_item_counter[hour] += num_items
-
-# # Prepare data for plotting
-# hours = list(range(24))  # Create a list for 24 hours
-# item_counts = [hourly_item_counter.get(hour, 0) for hour in hours]  # Get item counts for each hour
-
-# # Plot histogram for item count by hour
-# plt.figure(figsize=(12, 6))
-# plt.bar(hours, item_counts, color='skyblue', edgecolor='black')
-# plt.title("Number of Items Ordered by Hour of Day")
-# plt.xlabel("Hour of Day")
-# plt.ylabel("Number of Items Ordered")
-# plt.xticks(hours)  # Label each hour from 0 to 23
-# plt.tight_layout()
-# plt.show()
-
-# # Based on time and frequency of all items.
-# import matplotlib.pyplot as plt
-# import re
-# from datetime import datetime
-# from collections import defaultdict, Counter
-
-# # Dictionary to store item frequencies by hour
-# hourly_item_counts = defaultdict(lambda: Counter())
-
-# # Read the data from the file
-# with open("Orders.txt", "r") as file:
-#     # Read each line and parse blocks
-#     content = file.read().split("----------------------------------------\n")
-#     for block in content:
-#         if block.strip():  # Only process non-empty blocks
-#             # Use regex to find timestamp and items
-#             timestamp_match = re.search(r"Order Timestamp: (.+)", block)
-#             items_match = re.search(r"Items: (.+)", block)
-            
-#             if timestamp_match and items_match:
-#                 # Parse timestamp and extract hour
-#                 timestamp = datetime.strptime(timestamp_match.group(1), "%Y-%m-%d %H:%M:%S")
-#                 hour = timestamp.hour
-                
-#                 # Extract and clean item list
-#                 items = items_match.group(1)
-#                 item_list = [item.strip() for item in items.split(",")]
-                
-#                 # Update hourly count for each item
-#                 for item in item_list:
-#                     hourly_item_counts[item][hour] += 1
-
-# # Get the top 5 most common items overall
-# total_item_counts = Counter({item: sum(hour_counts.values()) for item, hour_counts in hourly_item_counts.items()})
-# top_items = [item for item, _ in total_item_counts.most_common(20)]
-
-# # Plot frequency of each top item by hour
-# plt.figure(figsize=(12, 8))
-
-# for item in top_items:
-#     # Extract the hourly counts for the current item
-#     item_hour_counts = [hourly_item_counts[item].get(hour, 0) for hour in range(24)]
-#     plt.plot(range(24), item_hour_counts, label=item, marker='o')
-
-# # Add plot details
-# plt.title("Frequency of Top 5 Ordered Items by Hour of Day")
-# plt.xlabel("Hour of Day")
-# plt.ylabel("Frequency")
-# plt.xticks(range(24))  # Set x-axis to show each hour
-# plt.legend(title="Items")
-# plt.grid(True)
-# plt.tight_layout()
-# plt.show()
