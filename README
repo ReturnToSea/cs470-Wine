@@ -1,1 +1,34 @@
 readme
+
+This project is a graphical tool for analyzing wine sales data from a CSV file. It uses a Tkinter-based GUI to allow users to generate histograms based on different criteria and visualize the sales frequency of specific wines.
+
+1. To Run the Code, first make sure you are in the data directory that contains the program files, then hit run.
+    - You can also launch the application through file explorer by opening "MakeHistogram"
+2. A User Interface will appear, this will allow you to select a wine and five different histogram options.
+3. After you select your wine and any other specifications depending on the option you choose, hit generate graph and your histogram will be created.
+    - Keep in mind that the bottom two (Promoted and Top 20 Wine) options have their own dropbox selection. This means that the top dropbox selection does not apply here.
+
+Notes:
+- Our code works by first extracting (ExtractData.py) the data from the original files, which then get written into the CsvReaderOutput.txt file.
+- After that, the CsvReaderOutput.txt is used by MakeHistogram.py to create a functional user interface that generates histograms based on selection.
+
+Key Functions:
+
+parse_orders(file_path):
+- Reads and parses the sales data from the CSV file.
+- Returns a structured list of orders.
+
+get_wine_names(file_path):
+- Extracts all unique wine names from the sales data in the CSV file.
+- Returns a sorted list of wine names.
+
+plot_item_frequency_by_hour() / plot_item_frequency_by_day():
+- Generates histograms for hourly or daily sales frequencies.
+- Highlights top N data points in yellow.
+
+plot_promoted_item_histograms():
+- Creates three histograms for a promoted item:
+- Week prior, week of, and week after the promotion.
+
+generate_graph():
+- Determines the user-selected option and generates the appropriate histogram.
