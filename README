@@ -32,3 +32,9 @@ plot_promoted_item_histograms():
 
 generate_graph():
 - Determines the user-selected option and generates the appropriate histogram.
+
+
+ReadCsv.py only needs to be run if there is new data in unmodifed.
+Same with SplitData.py
+ExtractData.py does not need to be run its functions are used in other code
+Prediction.ipynb is for the machine learning stuff, it should work in anything that can run a notebook
